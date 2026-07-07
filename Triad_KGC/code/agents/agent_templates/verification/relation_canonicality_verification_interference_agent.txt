@@ -1,0 +1,13 @@
+Given a incomplete triples, generate three wrong interference item to complete.
+Ensure the correctness and purity of the output content format, without attaching any explanations or labels.
+
+Example:
+input: (cat, ,car)
+output: drive, eat, manufacture
+
+input: (tree, has, )
+output: computer, car, rocket
+
+Query:
+input: {{incomplete_triples}}
+output:

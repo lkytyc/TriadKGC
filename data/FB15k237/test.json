@@ -1,0 +1,2690 @@
+[
+  {
+    "head_id": "/m/09rvcvl",
+    "head": "Made in Dagenham",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/025twgf",
+    "head": "Dr. No",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/07vc_9",
+    "head": "Danny Huston",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01h910",
+    "head": "Ray Romano",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0131kb",
+    "head": "Donald Pleasence",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/082xp",
+    "head": "Winston Churchill",
+    "relation": "nationality person people ",
+    "tail_id": "/m/02jx1",
+    "tail": "England"
+  },
+  {
+    "head_id": "/m/0pd4f",
+    "head": "Patton",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/06z9yh",
+    "head": "Larry Cohen",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0h1_w",
+    "head": "Fredric March",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0l5yl",
+    "head": "Jack Benny",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/040db",
+    "head": "Jorge Luis Borges",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/01wb8bs",
+    "head": "Roger Bart",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01j5sd",
+    "head": "Gabriel Byrne",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/01jz6x",
+    "head": "Jerry Stiller",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03np63f",
+    "head": "The House of Mirth",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0739y",
+    "head": "Spike Milligan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/05mt_q",
+    "head": "Drake",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0gm34",
+    "head": "Rod Steiger",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0n04r",
+    "head": "Anatomy of a Murder",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/02m92h",
+    "head": "Bob Odenkirk",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0421ng",
+    "head": "Bullets Over Broadway",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/04hw4b",
+    "head": "David S. Goyer",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/04w391",
+    "head": "Shia LaBeouf",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0qm8b",
+    "head": "Black Hawk Down",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/027j79k",
+    "head": "Chris Sheridan",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0c9t0y",
+    "head": "Psycho",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/04tnqn",
+    "head": "Tracy Morgan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/05dtsb",
+    "head": "Xander Berkeley",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0d1y7",
+    "tail": "Clark County"
+  },
+  {
+    "head_id": "/m/017khj",
+    "head": "David Warner",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02xb2bt",
+    "head": "Brendan Coyle",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0hwd8",
+    "head": "Basil Rathbone",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03pmzt",
+    "head": "Keith David",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0y_9q",
+    "head": "Dances with Wolves",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0crh5_f",
+    "head": "Elite Squad: The Enemy Within",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/0b6tzs",
+    "head": "No Country for Old Men",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0pgjm",
+    "head": "Michael McKean",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0lpjn",
+    "head": "Judi Dench",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/015qq1",
+    "head": "Paul Winfield",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/011xg5",
+    "head": "A.I. Artificial Intelligence",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/01vy_v8",
+    "head": "Frank Oz",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/08c4yn",
+    "head": "The Proposition",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/0992d9",
+    "head": "15 Minutes",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/0b5x23",
+    "head": "Prem Nath",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/07k8rt4",
+    "head": "The Green Hornet",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/04shbh",
+    "head": "Daniel Craig",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0fh2v5",
+    "head": "Children of Men",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/016yzz",
+    "head": "Sam Shepard",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/07h5d",
+    "head": "Terry Gilliam",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0d02km",
+    "head": "Zachary Quinto",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01pny5",
+    "head": "Gary Moore",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/03t8v3",
+    "head": "Arjun Rampal",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01p0vf",
+    "head": "Jonny Greenwood",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/01pgzn_",
+    "head": "Lindsay Lohan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/04y8r",
+    "head": "Michael Mann",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/05mlqj",
+    "head": "James Remar",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/04bdzg",
+    "head": "Josh Lucas",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/030pr",
+    "head": "Frank Capra",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/02gyl0",
+    "head": "Theodore Bikel",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/050_qx",
+    "head": "David Rasche",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/06bng",
+    "head": "Robert A. Heinlein",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/0gtsx8c",
+    "head": "American Reunion",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/026gb3v",
+    "head": "Bob Yari",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/0ply0",
+    "head": "Orlando",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/05nlx4",
+    "head": "Pirates of the Caribbean: At World's End",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/02pg45",
+    "head": "Four Rooms",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/01vksx",
+    "head": "Pirates of the Caribbean: The Curse of the Black Pearl",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/05hj_k",
+    "head": "Harvey Weinstein",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/0m491",
+    "head": "Ferris Bueller's Day Off",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/059fjj",
+    "head": "Kyra Sedgwick",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02n9k",
+    "head": "Eleanor Roosevelt",
+    "relation": "gender person people ",
+    "tail_id": "/m/02zsn",
+    "tail": "female"
+  },
+  {
+    "head_id": "/m/01vhb0",
+    "head": "Anne Heche",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01trhmt",
+    "head": "Usher",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/06hmd",
+    "head": "Robert E. Howard",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/015pkc",
+    "head": "Tobey Maguire",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01y0y6",
+    "head": "Paul Reiser",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02gjrc",
+    "head": "Jesus of Nazareth",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/064p92m",
+    "head": "Tinnu Anand",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03rtz1",
+    "head": "North",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/0bl60p",
+    "head": "Max Casella",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0k3jq",
+    "tail": "Hampshire County"
+  },
+  {
+    "head_id": "/m/03j1p2n",
+    "head": "William Orbit",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0mm0p",
+    "tail": "Lewis County"
+  },
+  {
+    "head_id": "/m/05lb30",
+    "head": "Ricardo Antonio Chavira",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01qvz8",
+    "head": "Gigli",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/04sh80",
+    "head": "Twilight Zone: The Movie",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/02825nf",
+    "head": "Pineapple Express",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/02pt27",
+    "head": "Stephen Richard Hackett",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0bvg70",
+    "head": "Jonathan Murray",
+    "relation": "profession person people ",
+    "tail_id": "/m/03gjzk",
+    "tail": "television producer"
+  },
+  {
+    "head_id": "/m/02p76f9",
+    "head": "Interview with the Vampire",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/081hvm",
+    "head": "Danny Denzongpa",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0hz55",
+    "head": "24",
+    "relation": "genre tv program tv ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/03q95r",
+    "head": "E. G. Marshall",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02hkv5",
+    "head": "Mammootty",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0kv4k",
+    "tail": "Inyo County"
+  },
+  {
+    "head_id": "/m/02lyx4",
+    "head": "Angie Dickinson",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/06lgq8",
+    "head": "Ryan Kwanten",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0h1p",
+    "head": "Ang Lee",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/01sbv9",
+    "head": "Madagascar",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/038bht",
+    "head": "William Petersen",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/043q6n_",
+    "head": "Neal H. Moritz",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/03cs_z7",
+    "head": "Craig Thomas",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/01438g",
+    "head": "Richard Gere",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02lg9w",
+    "head": "Aida Turturro",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/027n4zv",
+    "head": "Rich Sommer",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0yyts",
+    "head": "Driving Miss Daisy",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/07c37",
+    "head": "Thomas Hobbes",
+    "relation": "nationality person people ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/016ky6",
+    "head": "Big",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0cmc26r",
+    "head": "A Dangerous Method",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/02661h",
+    "head": "Tony Shalhoub",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01hdht",
+    "head": "Douglas Fairbanks",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02v3yy",
+    "head": "Carole Bayer Sager",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/01z7s_",
+    "head": "Emilio Estevez",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02h0f3",
+    "head": "Harry Morgan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/04bdlg",
+    "head": "Mako",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/024dw0",
+    "head": "Robert Wyatt",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0d6d2",
+    "head": "Paul Newman",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0jryt",
+    "tail": "Pasco County"
+  },
+  {
+    "head_id": "/m/09d5d5",
+    "head": "Jeremy Thomas",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/09tqx3",
+    "head": "Prakash Raj",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01f69m",
+    "head": "Ragtime",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/016_mj",
+    "head": "Chris Rock",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0137g1",
+    "head": "Beck",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/05txrz",
+    "head": "Seth Rogen",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01lqf49",
+    "head": "RuPaul",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0194zl",
+    "head": "Iris",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/0294mx",
+    "head": "Monster",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/015ynm",
+    "head": "Lilo & Stitch",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0mwk9",
+    "tail": "Lycoming County"
+  },
+  {
+    "head_id": "/m/0p9z5",
+    "head": "Brookline",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/0bbgvp",
+    "head": "Mutiny on the Bounty",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/013pk3",
+    "head": "Hugh Laurie",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/036hf4",
+    "head": "Ryan Reynolds",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01tpl1p",
+    "head": "Cree Summer",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0htcn",
+    "head": "King Vidor",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/06jzh",
+    "head": "Robin Wright",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/016h4r",
+    "head": "Kris Kristofferson",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/078jt5",
+    "head": "Gregory Hoblit",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/017l4",
+    "head": "Benny Andersson",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/01n30p",
+    "head": "Ghost World",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/02py9yf",
+    "head": "Chuck",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/0c9c0",
+    "head": "Sacha Baron Cohen",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/0ycht",
+    "head": "White Plains",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/02_j8x",
+    "head": "Matt Lucas",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/01kwsg",
+    "head": "Tommy Lee Jones",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0h0yt",
+    "head": "Stephen Fry",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/01f7v_",
+    "head": "Wong Kar-wai",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/071cn",
+    "head": "Syracuse",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/01dbgw",
+    "head": "Piper Laurie",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/094xh",
+    "head": "Stevie Nicks",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/07ssc",
+    "head": "United Kingdom",
+    "relation": "contains location ",
+    "tail_id": "/m/09bkv",
+    "tail": "Westminster"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0mwq7",
+    "tail": "Franklin County"
+  },
+  {
+    "head_id": "/m/0jym0",
+    "head": "The Last Picture Show",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/07m9cm",
+    "head": "Til Schweiger",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0nvt9",
+    "tail": "Cook County"
+  },
+  {
+    "head_id": "/m/02j3d4",
+    "head": "Edgar Meyer",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/030znt",
+    "head": "Alfre Woodard",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02g8h",
+    "head": "Denis Leary",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02nfhx",
+    "head": "John Amos",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0c3xpwy",
+    "head": "Fear the Walking Dead",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/05ch98",
+    "head": "The Jacket",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/053x8hr",
+    "head": "Sherlock",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/02x8z_",
+    "head": "Bruce Hornsby",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/01b66d",
+    "head": "Guiding Light",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/09pl3f",
+    "head": "Alex Kurtzman",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/01bcq",
+    "head": "Blythe Danner",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0353tm",
+    "head": "Freddy vs. Jason",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0565cz",
+    "head": "David Lindley",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/01chpn",
+    "head": "Adaptation",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/03hxsv",
+    "head": "Harry Potter and the Half-Blood Prince",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/03_js",
+    "head": "John Adams",
+    "relation": "nationality person people ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/02lnhv",
+    "head": "Bai Ling",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/04sx9_",
+    "head": "Peter Riegert",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01v42g",
+    "head": "Jason Flemyng",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03zqc1",
+    "head": "Felicity Huffman",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0p__8",
+    "head": "Mike Myers",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/02x3y41",
+    "head": "Green Zone",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/010z5n",
+    "head": "Parkersburg",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/02nczh",
+    "head": "Boys Don't Cry",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0n2vl",
+    "tail": "Ashtabula County"
+  },
+  {
+    "head_id": "/m/09p3_s",
+    "head": "A Passage to India",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0cvkv5",
+    "head": "Volver",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/02bgmr",
+    "head": "Gustavo Cerati",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0m68w",
+    "head": "Sandra Bernhard",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/049mql",
+    "head": "Alexander",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0pmhf",
+    "head": "Denzel Washington",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/069nzr",
+    "head": "Kyle Chandler",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0cfywh",
+    "head": "Jagdeep",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0mtl5",
+    "tail": "Davidson County"
+  },
+  {
+    "head_id": "/m/0652ty",
+    "head": "Saul Rubinek",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/020y73",
+    "head": "Enemy at the Gates",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0ds2l81",
+    "head": "Big Miracle",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/01nrq5",
+    "head": "Don Knotts",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01jr4j",
+    "head": "Topaz",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/06pcz0",
+    "head": "Thomas Lennon",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/042g97",
+    "head": "Superman III",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/050z2",
+    "head": "Mike Oldfield",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/03f1zdw",
+    "head": "Colin Firth",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02z5x7l",
+    "head": "Evangelion: 1.0 You Are (Not) Alone",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/01yfm8",
+    "head": "Bruce Greenwood",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "second level divisions country location ",
+    "tail_id": "/m/0mrf1",
+    "tail": "Hidalgo County"
+  },
+  {
+    "head_id": "/m/044bn",
+    "head": "Joseph Cotten",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03qd_",
+    "head": "Harry Shearer",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0299hs",
+    "head": "RoboCop",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0q1lp",
+    "head": "Michael Rosenbaum",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/08d6bd",
+    "head": "Vinod Khanna",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01mvjl0",
+    "head": "Walter Becker",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/03q1vd",
+    "head": "Paul Sorvino",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0p9rz",
+    "head": "Romeo and Juliet",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/026y3cf",
+    "head": "Roots: The Next Generations",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/05lnk0",
+    "head": "Tom DeFalco",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/0gn30",
+    "head": "Sylvester Stallone",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/07bwr",
+    "head": "The Big Lebowski",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/06gbnc",
+    "head": "Welsh people",
+    "relation": "languages spoken ethnicity people ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0b76kw1",
+    "head": "Temple Grandin",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0bq8tmw",
+    "head": "21 Jump Street",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/03n0pv",
+    "head": "Richard M. Sherman",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/02vjp3",
+    "head": "Sky Captain and the World of Tomorrow",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/07g1sm",
+    "head": "The Godfather",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/01l3j",
+    "head": "Bela Lugosi",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01ggbx",
+    "head": "Mani Ratnam",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/0rrwt",
+    "head": "Sarasota",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/01w23w",
+    "head": "Randy Quaid",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0435vm",
+    "head": "The Island",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/04bp0l",
+    "head": "The Biggest Loser",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/03bw6",
+    "head": "George Cukor",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/05p606",
+    "head": "Ed Lauter",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01ry0f",
+    "head": "Kurtwood Smith",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/016sqs",
+    "head": "George Strait",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03l6q0",
+    "head": "Scary Movie 3",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/0785v8",
+    "head": "John Hawkes",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02mx98",
+    "head": "Bill Berry",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/081lh",
+    "head": "Woody Allen",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/013pk3",
+    "head": "Hugh Laurie",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0ql36",
+    "head": "George Clinton",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0jrqq",
+    "head": "M. Night Shyamalan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/01p1z_",
+    "head": "John Cassavetes",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/01tfck",
+    "head": "Benjamin Bratt",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/010xjr",
+    "head": "Richard Harris",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/03xx9l",
+    "head": "David Alan Grier",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/05typm",
+    "head": "Swoosie Kurtz",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0jqzt",
+    "head": "Frankenstein",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/016z1t",
+    "head": "Glen Campbell",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0p7vt",
+    "head": "Rocky Mount",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/0295sy",
+    "head": "Hook",
+    "relation": "genre film ",
+    "tail_id": "/m/03k9fj",
+    "tail": "adventure film"
+  },
+  {
+    "head_id": "/m/047s_cr",
+    "head": "Raghu Babu",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0bl1_",
+    "head": "Midnight Cowboy",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0210f1",
+    "head": "Connie Willis",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/04s5_s",
+    "head": "Mike Mills",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/02hy9p",
+    "head": "Robert Evans",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/04zkj5",
+    "head": "Ed Helms",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/019pm_",
+    "head": "Demi Moore",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/013q0p",
+    "head": "Austin Powers: International Man of Mystery",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0jvtp",
+    "head": "James Mason",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0gh8zks",
+    "head": "Shame",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/053rxgm",
+    "head": "The Expendables",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/07pd_j",
+    "head": "American Pie",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/09t4hh",
+    "head": "Delmer Daves",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0646qh",
+    "head": "Jean Passanante",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/03k545",
+    "head": "Emily Mortimer",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/05w88j",
+    "head": "Charles S. Dutton",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0bj25",
+    "head": "All About Eve",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0dgpwnk",
+    "head": "This Must Be the Place",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/033db3",
+    "head": "Corbin Bernsen",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01h4rj",
+    "head": "Robert Stack",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/05rfst",
+    "head": "A History of Violence",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0bmc4cm",
+    "head": "13 Assassins",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/0n04r",
+    "head": "Anatomy of a Murder",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/09ld6g",
+    "head": "Nagesh",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02v570",
+    "head": "Fahrenheit 9/11",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/01s21dg",
+    "head": "John Mayer",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0209hj",
+    "head": "Gandhi",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/03j90",
+    "head": "Hans Christian Andersen",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/06nd8c",
+    "head": "Howard Morris",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/0grrq8",
+    "head": "Robert Greenhut",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/031k24",
+    "head": "David Strathairn",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/02_286",
+    "head": "New York City",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/07s8z_l",
+    "head": "The Amazing Race",
+    "relation": "country of origin tv program tv ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/026rm_y",
+    "head": "Christoph Waltz",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09gq0x5",
+    "head": "The King's Speech",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/02lq10",
+    "head": "Michael York",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0dgst_d",
+    "head": "My Week with Marilyn",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/01qg7c",
+    "head": "Barry Sonnenfeld",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/041c4",
+    "head": "John Cleese",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/07ykkx5",
+    "head": "The Last Song",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/01nd6v",
+    "head": "Phil LaMarr",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/070ltt",
+    "head": "Saturday Night's Main Event",
+    "relation": "languages tv program tv ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/030vmc",
+    "head": "John Landis",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0fx02",
+    "head": "Ian Fleming",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/04f2zj",
+    "head": "multi-instrumentalist",
+    "relation": "specialization of profession people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0bt4r4",
+    "head": "Paul Lieberstein",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/06fc0b",
+    "head": "Adrian Grenier",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0h10vt",
+    "head": "Eddie Redmayne",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01p0w_",
+    "head": "Thom Yorke",
+    "relation": "nationality person people ",
+    "tail_id": "/m/02jx1",
+    "tail": "England"
+  },
+  {
+    "head_id": "/m/02q4mt",
+    "head": "Buck Henry",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01_p6t",
+    "head": "Toni Collette",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0p51w",
+    "head": "Fred Zinnemann",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/02y49",
+    "head": "Fritz Leiber Junior",
+    "relation": "profession person people ",
+    "tail_id": "/m/0cbd2",
+    "tail": "writer"
+  },
+  {
+    "head_id": "/m/06gn7r",
+    "head": "Utpal Dutt",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01v1ln",
+    "head": "Tomorrow Never Dies",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/09q5w2",
+    "head": "Gladiator",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/07gknc",
+    "head": "Brian Drummond",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01mvjl0",
+    "head": "Walter Becker",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/01j4ls",
+    "head": "Chris Isaak",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/02hhtj",
+    "head": "Wilmer Valderrama",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0q9sg",
+    "head": "Rocky IV",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0jzw",
+    "head": "Apocalypse Now",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/03hy3g",
+    "head": "Jim Sheridan",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0f6_dy",
+    "head": "Titus Welliver",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0cgfb",
+    "head": "Victoria Beckham",
+    "relation": "nationality person people ",
+    "tail_id": "/m/02jx1",
+    "tail": "England"
+  },
+  {
+    "head_id": "/m/03f7xg",
+    "head": "Dead Ringers",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/034hck",
+    "head": "Renny Harlin",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/0rs6x",
+    "head": "St. Augustine",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/0kh6b",
+    "head": "David Attenborough",
+    "relation": "nationality person people ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/01_0f7",
+    "head": "Kingdom of Heaven",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/01vw917",
+    "head": "Xzibit",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/022fdt",
+    "head": "Armenians",
+    "relation": "languages spoken ethnicity people ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/03bzyn4",
+    "head": "Sex and the City",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/01vrnsk",
+    "head": "Ringo Starr",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0kft",
+    "head": "Akira Kurosawa",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/02rrfzf",
+    "head": "Spy Kids",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/0glqh5_",
+    "head": "Contraband",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/01d1st",
+    "head": "Nick Cannon",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/06lht1",
+    "head": "Richard Jenkins",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0fphf3v",
+    "head": "New Year's Eve",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/02yy_j",
+    "head": "John Waters",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01vw26l",
+    "head": "Ice Cube",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/030pr",
+    "head": "Frank Capra",
+    "relation": "nationality person people ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/02m501",
+    "head": "Mickey Rourke",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0v1xg",
+    "head": "Bay City",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/047svrl",
+    "head": "Funny People",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/01wk3c",
+    "head": "Robert Carlyle",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01nr36",
+    "head": "Tim Robbins",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09c7w0",
+    "head": "United States of America",
+    "relation": "time zones location ",
+    "tail_id": "/m/02lcqs",
+    "tail": "Pacific Time Zone"
+  },
+  {
+    "head_id": "/m/0dzf_",
+    "head": "Robin Williams",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/09qc1",
+    "head": "Michelangelo Antonioni",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/06151l",
+    "head": "Freddy Rodriguez",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01wkmgb",
+    "head": "Bret Michaels",
+    "relation": "profession person people ",
+    "tail_id": "/m/09jwl",
+    "tail": "musician"
+  },
+  {
+    "head_id": "/m/0dl567",
+    "head": "Taylor Swift",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/0147sh",
+    "head": "Quo Vadis",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/05whq_9",
+    "head": "Werner Herzog",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/07tlfx",
+    "head": "The Assassination of Jesse James by the Coward Robert Ford",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/04jwjq",
+    "head": "Veer-Zaara",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/0hgnl3t",
+    "head": "Flight",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/02j9lm",
+    "head": "Rachel Griffiths",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/023w9s",
+    "head": "Preston Sturges",
+    "relation": "profession person people ",
+    "tail_id": "/m/02jknp",
+    "tail": "film director"
+  },
+  {
+    "head_id": "/m/04z_x4v",
+    "head": "Boris Leven",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/03m6pk",
+    "head": "Rhys Ifans",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01q2nx",
+    "head": "Deep Impact",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/039bpc",
+    "head": "Nick Lachey",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/026lgs",
+    "head": "Contact",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/042f1",
+    "head": "James K. Polk",
+    "relation": "nationality person people ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/01kf5lf",
+    "head": "Goldfinger",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/024dgj",
+    "head": "Chris Martin",
+    "relation": "profession person people ",
+    "tail_id": "/m/0nbcg",
+    "tail": "songwriter"
+  },
+  {
+    "head_id": "/m/02kxbwx",
+    "head": "Ethan Coen",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/03bnv",
+    "head": "George Harrison",
+    "relation": "nationality person people ",
+    "tail_id": "/m/02jx1",
+    "tail": "England"
+  },
+  {
+    "head_id": "/m/09hd6f",
+    "head": "Javier Grillo-Marxuach",
+    "relation": "profession person people ",
+    "tail_id": "/m/0dxtg",
+    "tail": "screenwriter"
+  },
+  {
+    "head_id": "/m/0fvyg",
+    "head": "Raleigh",
+    "relation": "time zones location ",
+    "tail_id": "/m/02hcv8",
+    "tail": "Eastern Time Zone"
+  },
+  {
+    "head_id": "/m/0cy__l",
+    "head": "Mildred Pierce",
+    "relation": "genre film ",
+    "tail_id": "/m/07s9rl0",
+    "tail": "drama film"
+  },
+  {
+    "head_id": "/m/026c1",
+    "head": "Drew Barrymore",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03h4fq7",
+    "head": "Dinner for Schmucks",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/042g97",
+    "head": "Superman III",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/0djywgn",
+    "head": "Rowan Atkinson",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/01bb9r",
+    "head": "Three Kings",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/05q7874",
+    "head": "The Runaways",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/0ygbf",
+    "head": "Winston-Salem",
+    "relation": "country bibs location biblioness base ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/0f61tk",
+    "head": "The Rocketeer",
+    "relation": "genre film ",
+    "tail_id": "/m/03k9fj",
+    "tail": "adventure film"
+  },
+  {
+    "head_id": "/m/09gq0x5",
+    "head": "The King's Speech",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/01d259",
+    "head": "Lost Highway",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/02xp18",
+    "head": "Brian Henson",
+    "relation": "profession person people ",
+    "tail_id": "/m/01d_h8",
+    "tail": "film producer"
+  },
+  {
+    "head_id": "/m/0dryh9k",
+    "head": "Indian people",
+    "relation": "languages spoken ethnicity people ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  },
+  {
+    "head_id": "/m/025j1t",
+    "head": "Tom Sizemore",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03j149k",
+    "head": "Method Man",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/051ys82",
+    "head": "The Killer Inside Me",
+    "relation": "country film ",
+    "tail_id": "/m/09c7w0",
+    "tail": "United States of America"
+  },
+  {
+    "head_id": "/m/0clvcx",
+    "head": "Phyllis Logan",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/0fztbq",
+    "head": "On Her Majesty's Secret Service",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/09fqgj",
+    "head": "Stardust",
+    "relation": "country film ",
+    "tail_id": "/m/07ssc",
+    "tail": "United Kingdom"
+  },
+  {
+    "head_id": "/m/01wmcbg",
+    "head": "Karen Black",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/026f__m",
+    "head": "Meet Dave",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/02yy8",
+    "head": "Franklin Delano Roosevelt",
+    "relation": "gender person people ",
+    "tail_id": "/m/05zppz",
+    "tail": "male"
+  },
+  {
+    "head_id": "/m/043t8t",
+    "head": "The Life Aquatic with Steve Zissou",
+    "relation": "genre film ",
+    "tail_id": "/m/05p553",
+    "tail": "comedy"
+  },
+  {
+    "head_id": "/m/0hhggmy",
+    "head": "Taken 2",
+    "relation": "genre film ",
+    "tail_id": "/m/02kdv5l",
+    "tail": "action film"
+  },
+  {
+    "head_id": "/m/01hkhq",
+    "head": "Helen Mirren",
+    "relation": "profession person people ",
+    "tail_id": "/m/02hrh1q",
+    "tail": "actor"
+  },
+  {
+    "head_id": "/m/03176f",
+    "head": "Harry Potter and the Philosopher's Stone",
+    "relation": "language film ",
+    "tail_id": "/m/02h40lc",
+    "tail": "English"
+  }
+]

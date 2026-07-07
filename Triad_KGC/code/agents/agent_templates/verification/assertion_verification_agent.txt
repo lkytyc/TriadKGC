@@ -1,0 +1,21 @@
+Determine whether the triples is correct based on the domain knowledge.
+Ensure the correctness and purity of the output content format, without attaching any explanations or labels.
+
+Example:
+Domain Knowledge:
+The main job of teachers is to teach and educate students, and they are active in the field of technical education in various universities.
+Students are the main body of the school, and their main task is to learn knowledge.
+input: Based on the knowledge above, (teacher, teach, student)  is reasonable.
+output: Correct.
+
+Domain Knowledge:
+The primary simple information about a country typically includes its geographical location, population size, capital city, official language(s), and currency.
+Firefighters are emergency responders trained to combat and extinguish fires, rescue people and animals from dangerous situations, and provide medical assistance in emergencies. They often work for fire departments or emergency services agencies and undergo rigorous training to handle various types of emergencies.
+input: Based on the knowledge above, (country, eat, firefighters) is reasonable.
+output: Incorrect.
+
+Query:
+Domain Knowledge:
+{{domain_knowledge}}
+input: Based on the knowledge above, {{unvalidated_triples}} is reasonable.
+output:

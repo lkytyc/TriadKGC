@@ -1,0 +1,1884 @@
+{
+    "nodes": [
+        {
+            "id": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "Physical Object",
+            "attributes": {
+                "definition": "A tangible item or material entity that occupies space and can be perceived by the senses."
+            }
+        },
+        {
+            "id": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "type": "type",
+            "name": "Plant",
+            "attributes": {
+                "definition": "A living organism of the kingdom Plantae, typically capable of photosynthesis and lacking mobility."
+            }
+        },
+        {
+            "id": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "Distortion/Deformation",
+            "attributes": {
+                "definition": "The alteration or impairment of the normal shape, structure, or function of something."
+            }
+        },
+        {
+            "id": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "Legal Profession & Law",
+            "attributes": {
+                "definition": "The field encompassing legal roles, concepts, practices, and regulations related to law and justice."
+            }
+        },
+        {
+            "id": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "Action/Process",
+            "attributes": {
+                "definition": "A category representing activities, operations, or sequences of events performed by agents or systems."
+            }
+        },
+        {
+            "id": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "Adjective/Quality",
+            "attributes": {
+                "definition": "An adjective or quality is a word or phrase that describes attributes or characteristics of entities."
+            }
+        },
+        {
+            "id": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "type": "type",
+            "name": "Material/Surface",
+            "attributes": {
+                "definition": "A physical substance or layer that forms the exterior or structure of an object."
+            }
+        },
+        {
+            "id": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "type": "type",
+            "name": "Therapy/Healthcare",
+            "attributes": {
+                "definition": "A field focused on the diagnosis, treatment, and prevention of physical and mental health conditions."
+            }
+        },
+        {
+            "id": "a8f5bc08-b0dc-4c03-b410-d1614cc1649f",
+            "type": "type",
+            "name": "Exposure/Condition",
+            "attributes": {
+                "definition": "A category representing states, situations, or factors affecting an organism's health or biological response."
+            }
+        },
+        {
+            "id": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "Class/Category",
+            "attributes": {
+                "definition": "A group or set of entities sharing common characteristics or attributes."
+            }
+        },
+        {
+            "id": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "Travel/Movement",
+            "attributes": {
+                "definition": "Actions or processes involving the change of location or position of people or objects."
+            }
+        },
+        {
+            "id": "de4ce5ed-1ade-4b47-861b-9207b5a2873a",
+            "type": "type",
+            "name": "Organization",
+            "attributes": {
+                "definition": "An Organization is a group of people structured to achieve specific goals or perform collective activities."
+            }
+        },
+        {
+            "id": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "type": "type",
+            "name": "Location/Geopolitical Entity",
+            "attributes": {
+                "definition": "A physical or political place or region, such as a city, country, river, or landmark."
+            }
+        },
+        {
+            "id": "f2813a89-4305-4e2a-8dc1-8056ed136ffc",
+            "type": "type",
+            "name": "Confidence/Probability",
+            "attributes": {
+                "definition": "The degree of certainty or likelihood that a particular event or statement is true."
+            }
+        },
+        {
+            "id": "37e9dafd-f117-4318-90d8-57403f1bc25c",
+            "type": "type",
+            "name": "Security",
+            "attributes": {
+                "definition": "Security refers to measures or systems designed to protect against threats, danger, or unauthorized access."
+            }
+        },
+        {
+            "id": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "Event/Phenomenon",
+            "attributes": {
+                "definition": "An occurrence, action, or process that can be observed or experienced, often involving change or interaction."
+            }
+        },
+        {
+            "id": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "Person/Profession",
+            "attributes": {
+                "definition": "A person or profession refers to an individual or a specific occupation, role, or job performed by a person."
+            }
+        },
+        {
+            "id": "82e44098-ab42-4198-a7c1-54886b655b86",
+            "type": "type",
+            "name": "Data Size",
+            "attributes": {
+                "definition": "The amount of digital information that can be stored or processed."
+            }
+        },
+        {
+            "id": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "Food",
+            "attributes": {
+                "definition": "Edible substances or items consumed by living organisms for nutrition or pleasure."
+            }
+        },
+        {
+            "id": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "Animal",
+            "attributes": {
+                "definition": "A living organism that feeds on organic matter, typically having specialized sense organs and nervous system."
+            }
+        },
+        {
+            "id": "283bbcad-dc41-40af-8565-215cff320172",
+            "type": "type",
+            "name": "Friendliness/Emotion",
+            "attributes": {
+                "definition": "The category representing various emotional states or interpersonal attitudes expressed by individuals."
+            }
+        },
+        {
+            "id": "76239124-88b3-4e45-a0e0-1a846b6127a6",
+            "type": "type",
+            "name": "Action/Process (continued)",
+            "attributes": {
+                "definition": ""
+            }
+        },
+        {
+            "id": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "Topical/Hierarchy",
+            "attributes": {
+                "definition": "A category representing subjects, disciplines, or hierarchical groupings in knowledge organization."
+            }
+        },
+        {
+            "id": "3d9520ee-7fd1-4ca6-ab04-cf9b336901a9",
+            "type": "type",
+            "name": "Understanding/Knowledge",
+            "attributes": {
+                "definition": "Theoretical or practical comprehension, awareness, or familiarity gained through experience or study."
+            }
+        },
+        {
+            "id": "d50441c4-54f3-4eb3-bdc2-08b0fd68424a",
+            "type": "type",
+            "name": "Programme/Plan",
+            "attributes": {
+                "definition": "A structured set of actions or events designed to achieve specific goals or outcomes."
+            }
+        },
+        {
+            "id": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "type": "type",
+            "name": "Nationality/Ethnic Group",
+            "attributes": {
+                "definition": "A category representing a group of people sharing common national, ethnic, or cultural identity."
+            }
+        },
+        {
+            "id": "07bb70a4-a66f-4aec-b265-9fdfe1a8ca1a",
+            "type": "type",
+            "name": "Wavering/Instability",
+            "attributes": {
+                "definition": "A state or quality characterized by uncertainty, indecision, or lack of firmness or stability."
+            }
+        },
+        {
+            "id": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "type": "type",
+            "name": "Demand/Need",
+            "attributes": {
+                "definition": "A category representing expressions of wants, requirements, or motivations for actions or resources."
+            }
+        },
+        {
+            "id": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "type": "type",
+            "name": "Physical Property",
+            "attributes": {
+                "definition": "A characteristic of matter that can be measured or observed without changing its composition."
+            }
+        },
+        {
+            "id": "d637f2ae-8673-48d8-8b6a-faef62ff2dae",
+            "type": "type",
+            "name": "Action/Event",
+            "attributes": {
+                "definition": "An occurrence or activity performed by an agent, often involving a process or change."
+            }
+        },
+        {
+            "id": "8b768ecb-7c1f-4eaf-b4fc-7f9d467fc5ae",
+            "type": "type",
+            "name": "Music/Art",
+            "attributes": {
+                "definition": "A category encompassing forms of creative expression such as music, visual arts, and related cultural works."
+            }
+        },
+        {
+            "id": "3fb1aad1-dbef-4adb-b66c-35ed79a56f58",
+            "type": "type",
+            "name": "Trade/Commerce",
+            "attributes": {
+                "definition": "The activity of buying, selling, or exchanging goods and services between people or entities."
+            }
+        },
+        {
+            "id": "7a57867c-7737-4cb0-a542-f6d27a5a94be",
+            "type": "type",
+            "name": "Untruth/NN",
+            "attributes": {
+                "definition": ""
+            }
+        },
+        {
+            "id": "8b0e44c7-d05e-4459-8be9-fba90171bd2c",
+            "type": "type",
+            "name": "Secretion/Physiological Process",
+            "attributes": {
+                "definition": "A biological process involving the production and release of substances by cells or glands."
+            }
+        },
+        {
+            "id": "d91c9ad1-b9e0-452f-b03b-1e957bae976c",
+            "type": "type",
+            "name": "Hairstyle",
+            "attributes": {
+                "definition": "A hairstyle is the arrangement or styling of hair on the human head."
+            }
+        },
+        {
+            "id": "f8b01b48-78da-45a3-9900-c93cdf09f326",
+            "type": "type",
+            "name": "Sport",
+            "attributes": {
+                "definition": "A physical activity involving skill and competition, governed by a set of rules or customs."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "target": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "target": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "also see",
+            "attributes": {
+                "definition": "The also see relation links two synsets that are not strictly semantically equivalent but are closely related in meaning or usage. This relation is often used to suggest associated concepts that may occur in similar contexts or that are worth comparing. Unlike synonymy or taxonomic hierarchy, this connection is associative and lateral—it points to conceptual neighbors, not parents or parts. For example, \"teacher\" and \"educator\" might be linked via also see, even if their definitions are not identical. In triple completion, this relation should be filled with synsets that are topically or functionally connected, while avoiding hypernyms, derivational forms, or unrelated concepts. Candidates should be selected based on meaningful contextual similarity, often appearing in the same lexical neighborhood in WordNet.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "verb group",
+            "attributes": {
+                "definition": "The verb group relation connects verb senses that are semantically related and often interchangeable in usage. It is used to group verbs that perform similar actions or belong to the same category of behavior, such as \"buy\" and \"purchase\" or \"run\" and \"sprint.\" While these verbs may not be perfect synonyms, they typically share core semantic features and can often substitute for each other in certain contexts. In triple completion, this relation requires identifying a verb sense that represents a closely related action, with high overlap in meaning and usage with the source verb. It is important to preserve the same part of speech and action type, and to avoid selecting hypernyms or causally related verbs that do not belong to the same action family.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "a8f5bc08-b0dc-4c03-b410-d1614cc1649f",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "de4ce5ed-1ade-4b47-861b-9207b5a2873a",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f2813a89-4305-4e2a-8dc1-8056ed136ffc",
+            "target": "37e9dafd-f117-4318-90d8-57403f1bc25c",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "instance hypernym",
+            "attributes": {
+                "definition": "The instance hypernym relation links a proper noun or named entity to the class or category it is an instance of, essentially forming an is-instance-of relationship. Unlike the regular hypernym relation, which connects types to supertypes, instance hypernym deals specifically with individual entities (cities, people, countries, organizations) and their semantic categories. For example, “Einstein” is an instance of “physicist,” and “Mombasa” is an instance of “urban center.” In triple completion, the head entity is a named, concrete entity (e.g., leyden_NN_1, nagoya_NN_1), while the tail must be a general class (e.g., urban_center_NN_1, scientist_NN_1) that exists as a synset in WordNet. Care must be taken not to substitute the tail with paraphrases or general descriptions; it must be a precise, predefined category.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "instance hypernym",
+            "attributes": {
+                "definition": "The instance hypernym relation links a proper noun or named entity to the class or category it is an instance of, essentially forming an is-instance-of relationship. Unlike the regular hypernym relation, which connects types to supertypes, instance hypernym deals specifically with individual entities (cities, people, countries, organizations) and their semantic categories. For example, “Einstein” is an instance of “physicist,” and “Mombasa” is an instance of “urban center.” In triple completion, the head entity is a named, concrete entity (e.g., leyden_NN_1, nagoya_NN_1), while the tail must be a general class (e.g., urban_center_NN_1, scientist_NN_1) that exists as a synset in WordNet. Care must be taken not to substitute the tail with paraphrases or general descriptions; it must be a precise, predefined category.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "also see",
+            "attributes": {
+                "definition": "The also see relation links two synsets that are not strictly semantically equivalent but are closely related in meaning or usage. This relation is often used to suggest associated concepts that may occur in similar contexts or that are worth comparing. Unlike synonymy or taxonomic hierarchy, this connection is associative and lateral—it points to conceptual neighbors, not parents or parts. For example, \"teacher\" and \"educator\" might be linked via also see, even if their definitions are not identical. In triple completion, this relation should be filled with synsets that are topically or functionally connected, while avoiding hypernyms, derivational forms, or unrelated concepts. Candidates should be selected based on meaningful contextual similarity, often appearing in the same lexical neighborhood in WordNet.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "target": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "82e44098-ab42-4198-a7c1-54886b655b86",
+            "target": "82e44098-ab42-4198-a7c1-54886b655b86",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "target": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "type": "type",
+            "name": "instance hypernym",
+            "attributes": {
+                "definition": "The instance hypernym relation links a proper noun or named entity to the class or category it is an instance of, essentially forming an is-instance-of relationship. Unlike the regular hypernym relation, which connects types to supertypes, instance hypernym deals specifically with individual entities (cities, people, countries, organizations) and their semantic categories. For example, “Einstein” is an instance of “physicist,” and “Mombasa” is an instance of “urban center.” In triple completion, the head entity is a named, concrete entity (e.g., leyden_NN_1, nagoya_NN_1), while the tail must be a general class (e.g., urban_center_NN_1, scientist_NN_1) that exists as a synset in WordNet. Care must be taken not to substitute the tail with paraphrases or general descriptions; it must be a precise, predefined category.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "283bbcad-dc41-40af-8565-215cff320172",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "283bbcad-dc41-40af-8565-215cff320172",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f2813a89-4305-4e2a-8dc1-8056ed136ffc",
+            "target": "f2813a89-4305-4e2a-8dc1-8056ed136ffc",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "instance hypernym",
+            "attributes": {
+                "definition": "The instance hypernym relation links a proper noun or named entity to the class or category it is an instance of, essentially forming an is-instance-of relationship. Unlike the regular hypernym relation, which connects types to supertypes, instance hypernym deals specifically with individual entities (cities, people, countries, organizations) and their semantic categories. For example, “Einstein” is an instance of “physicist,” and “Mombasa” is an instance of “urban center.” In triple completion, the head entity is a named, concrete entity (e.g., leyden_NN_1, nagoya_NN_1), while the tail must be a general class (e.g., urban_center_NN_1, scientist_NN_1) that exists as a synset in WordNet. Care must be taken not to substitute the tail with paraphrases or general descriptions; it must be a precise, predefined category.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "76239124-88b3-4e45-a0e0-1a846b6127a6",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "3d9520ee-7fd1-4ca6-ab04-cf9b336901a9",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d50441c4-54f3-4eb3-bdc2-08b0fd68424a",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "76239124-88b3-4e45-a0e0-1a846b6127a6",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "07bb70a4-a66f-4aec-b265-9fdfe1a8ca1a",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "7f1600fc-bf3a-49b0-82d7-cb90932ff3fd",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "target": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "target": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "also see",
+            "attributes": {
+                "definition": "The also see relation links two synsets that are not strictly semantically equivalent but are closely related in meaning or usage. This relation is often used to suggest associated concepts that may occur in similar contexts or that are worth comparing. Unlike synonymy or taxonomic hierarchy, this connection is associative and lateral—it points to conceptual neighbors, not parents or parts. For example, \"teacher\" and \"educator\" might be linked via also see, even if their definitions are not identical. In triple completion, this relation should be filled with synsets that are topically or functionally connected, while avoiding hypernyms, derivational forms, or unrelated concepts. Candidates should be selected based on meaningful contextual similarity, often appearing in the same lexical neighborhood in WordNet.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "instance hypernym",
+            "attributes": {
+                "definition": "The instance hypernym relation links a proper noun or named entity to the class or category it is an instance of, essentially forming an is-instance-of relationship. Unlike the regular hypernym relation, which connects types to supertypes, instance hypernym deals specifically with individual entities (cities, people, countries, organizations) and their semantic categories. For example, “Einstein” is an instance of “physicist,” and “Mombasa” is an instance of “urban center.” In triple completion, the head entity is a named, concrete entity (e.g., leyden_NN_1, nagoya_NN_1), while the tail must be a general class (e.g., urban_center_NN_1, scientist_NN_1) that exists as a synset in WordNet. Care must be taken not to substitute the tail with paraphrases or general descriptions; it must be a precise, predefined category.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "519271e5-a14c-4bce-ac90-bb42913939dc",
+            "target": "0bc91029-3045-4755-ae89-69d68b033ac6",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "283bbcad-dc41-40af-8565-215cff320172",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "283bbcad-dc41-40af-8565-215cff320172",
+            "target": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "target": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "member of domain usage",
+            "attributes": {
+                "definition": "The member of domain usage relation connects a word sense (synset) to the technical or professional domain in which it is most commonly used. This relation captures the pragmatic or terminological context of a term rather than its structural or hierarchical classification. For example, a medical drug, legal concept, or computing term might be linked to domains such as “medicine,” “law,” or “computer science.” In triple completion tasks, when this relation appears, the missing entity should be the technical category or usage domain that the head entity belongs to—typically a concept like medical_term_NN_1, legal_term_NN_1, or computer_term_NN_1. Care must be taken not to confuse this with hypernym relations or functional components; only domain-specific classification terms should be used.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "member of domain region",
+            "attributes": {
+                "definition": "The member of domain region relation links a word sense to a geographic, cultural, or regional context where that concept is specifically used or culturally rooted. It captures the regional or national relevance of a term, rather than its general meaning. This is useful for concepts that are uniquely tied to specific countries, cultures, or dialects—for example, a traditional food, regional instrument, or administrative system. In triple completion tasks, this relation should be completed with the specific geographic or cultural synset (e.g., bavaria_NN_1, china_NN_1, us_NN_1) that the concept is associated with. Avoid abstract or non-regional categories, and do not substitute usage domains or functional descriptions for geographic entities.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "target": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "target": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "d637f2ae-8673-48d8-8b6a-faef62ff2dae",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "3d9520ee-7fd1-4ca6-ab04-cf9b336901a9",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "8b768ecb-7c1f-4eaf-b4fc-7f9d467fc5ae",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3fb1aad1-dbef-4adb-b66c-35ed79a56f58",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a8f5bc08-b0dc-4c03-b410-d1614cc1649f",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7a57867c-7737-4cb0-a542-f6d27a5a94be",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "target": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "07bb70a4-a66f-4aec-b265-9fdfe1a8ca1a",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d2c39e16-f4aa-4868-bc19-f3190869e8f4",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "cb2f292d-419c-40ec-b6ea-47b8b391b3df",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "target": "805db7d8-94fc-48ca-bb55-fe6a0a080d26",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "07bb70a4-a66f-4aec-b265-9fdfe1a8ca1a",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "7a57867c-7737-4cb0-a542-f6d27a5a94be",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9b21bb0b-66d8-48a7-a890-42f314a37090",
+            "target": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "fb8361a7-1afa-4168-bd01-34d182b6ccce",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "e6cc5c2b-a2b5-43da-8fc3-b3ffe2aed0ad",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "target": "d637f2ae-8673-48d8-8b6a-faef62ff2dae",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "8b0e44c7-d05e-4459-8be9-fba90171bd2c",
+            "target": "8b0e44c7-d05e-4459-8be9-fba90171bd2c",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "target": "3dae3cdc-f03e-4f7e-bb4b-1629bc61933f",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8b768ecb-7c1f-4eaf-b4fc-7f9d467fc5ae",
+            "target": "8b768ecb-7c1f-4eaf-b4fc-7f9d467fc5ae",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d91c9ad1-b9e0-452f-b03b-1e957bae976c",
+            "target": "d91c9ad1-b9e0-452f-b03b-1e957bae976c",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "target": "f8b01b48-78da-45a3-9900-c93cdf09f326",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "target": "06060d09-189b-4f5c-8fac-74f7d66c1559",
+            "type": "type",
+            "name": "has part",
+            "attributes": {
+                "definition": "The has part relation links an entity to another entity that forms a functional or physical component of it. This relation is the inverse of part meronym and describes how something is composed of its parts. For example, a “car” has part “engine,” or a “tree” has part “leaf.” In triple completion, the head entity represents a whole, while the tail entity must represent a semantic component or substructure that typically exists within it. The parts should be semantically essential or typical, rather than merely incidental. Care should be taken not to confuse this with member meronym (group membership) or has instance (class-instance). The completion should result in a part-whole relation grounded in real-world or conceptual structure.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "8b768ecb-7c1f-4eaf-b4fc-7f9d467fc5ae",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "target": "482ac715-ec78-403d-b50d-0a6d275a3826",
+            "type": "type",
+            "name": "member meronym",
+            "attributes": {
+                "definition": "The member meronym relation connects a concept to a larger collection or group that it is a member of. Unlike part-whole relations that denote physical components, member meronym specifically captures the idea of membership within a collective entity, such as an individual being part of a population or a species belonging to a taxonomic group. For example, “soldier” is a member of an “army,” and “oak” is a member of a “forest.” In triple completion, when this relation is used, the head entity should represent an individual unit, while the tail entity should denote a collective grouping. It is important to avoid confusing this with structural part-whole relations (has part) or class-subclass hierarchies (hypernym). The target should be a noun sense representing a defined group or set.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d637f2ae-8673-48d8-8b6a-faef62ff2dae",
+            "target": "d87c704d-e402-4232-85d6-0a3a0e871037",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "de4ce5ed-1ade-4b47-861b-9207b5a2873a",
+            "target": "de4ce5ed-1ade-4b47-861b-9207b5a2873a",
+            "type": "type",
+            "name": "hypernym",
+            "attributes": {
+                "definition": "The hypernym relation connects a more specific concept (hyponym) to a more general or abstract class it belongs to (hypernym). It represents a classical is-a relationship, such as “dog” is a hypernym of “poodle,” or “tool” is a hypernym of “hammer.” In the WordNet ontology, this relation forms the backbone of the taxonomic hierarchy, allowing concepts to be generalized up a semantic tree. For triple completion, the head entity should be a more specific noun or verb sense, while the tail entity must be its immediate superclass—a broader category under which the head clearly falls. The chosen hypernym must preserve the part of speech and WordNet sense granularity (e.g., modify_VB_3 instead of just modify). Do not generalize too far up the hierarchy or use approximate synonyms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5bcf3b87-58d3-44da-96c7-009d76d1b7c7",
+            "target": "6359fe59-7af3-4fb3-b43a-76baedbd28d5",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "723903a6-1a37-430f-b82d-e3e3adc09dab",
+            "target": "16803d9d-6679-4f6a-9745-df056a3cc609",
+            "type": "type",
+            "name": "synset domain topic of",
+            "attributes": {
+                "definition": "The synset domain topic of relation connects a word sense to the semantic domain or thematic area it is most associated with. It reflects conceptual categorization, indicating that a given word or concept is typically discussed within a broader topic such as “military,” “physics,” or “religion.” For example, “army_officer” is linked to “military_science.” This relation helps WordNet organize concepts by domain, providing higher-level structure beyond hierarchical types. In triple completion, the tail entity must be a domain label synset (e.g., war_machine_NN_1, medical_science_NN_1) that represents a topic, not a hypernym or part. Ensure that the domain is semantically relevant to the head and exists in WordNet’s inventory of domain topic synsets.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "7a57867c-7737-4cb0-a542-f6d27a5a94be",
+            "target": "7a57867c-7737-4cb0-a542-f6d27a5a94be",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9628ad51-d1fe-4fa6-a8b8-a8788179bf0b",
+            "target": "ec971ab7-56a1-4914-a1ff-17ec612b26b3",
+            "type": "type",
+            "name": "derivationally related form",
+            "attributes": {
+                "definition": "The derivationally related form relation links two synsets that share the same root word but differ in part of speech or grammatical role due to derivational morphology. It captures morphological transformations, such as from verb to noun or adjective to adverb, where the core meaning is preserved but grammatical function changes. Examples include “decide” (verb) and “decision” (noun), or “clarify” (verb) and “clarity” (noun). In triple completion, this relation should connect a word sense to another with a shared lexical root and clearly derivational connection, not merely a semantic similarity. The parts of speech must differ, and both entities must be existing, sense-level entries in WordNet (e.g., clarify_VB_2 → clarity_NN_1). Avoid filling with synonyms, paraphrases, or loosely connected forms.",
+                "source_user_add": "true"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1300 @@
+{
+    "nodes": [
+        {
+            "id": "913e2e52-d764-4798-88ed-c39bc0e8a402",
+            "type": "type",
+            "name": "Films",
+            "attributes": {
+                "definition": "A film is a motion picture or movie produced for entertainment, education, or artistic expression."
+            }
+        },
+        {
+            "id": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "Genres",
+            "attributes": {
+                "definition": "Categories of films characterized by similar themes, settings, or narrative techniques."
+            }
+        },
+        {
+            "id": "a1d7cee7-fce0-4dc3-b8a0-d3e06f6ac438",
+            "type": "type",
+            "name": "Actors",
+            "attributes": {
+                "definition": "Individuals who perform roles in films, television, theater, or other performing arts."
+            }
+        },
+        {
+            "id": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Professions",
+            "attributes": {
+                "definition": "A category of occupations that involve specialized skills, knowledge, and roles in various fields."
+            }
+        },
+        {
+            "id": "9322012a-32d6-4456-8f45-0d3ee4f3c4e0",
+            "type": "type",
+            "name": "Historical Figures",
+            "attributes": {
+                "definition": "Individuals who have significantly influenced history through their actions, leadership, or ideas."
+            }
+        },
+        {
+            "id": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Countries",
+            "attributes": {
+                "definition": "Geopolitical regions recognized as independent nations with defined territories and governments."
+            }
+        },
+        {
+            "id": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "Languages",
+            "attributes": {
+                "definition": "A system of communication used by a particular community or country."
+            }
+        },
+        {
+            "id": "1ffa264c-8937-4c19-ac5e-865cb1d975cb",
+            "type": "type",
+            "name": "Directors",
+            "attributes": {
+                "definition": "Individuals responsible for overseeing the creative aspects of a film or television production."
+            }
+        },
+        {
+            "id": "baae484b-0795-4dfe-b830-526491bfd66e",
+            "type": "type",
+            "name": "Writer",
+            "attributes": {
+                "definition": "A person who creates written works such as books, articles, or stories."
+            }
+        },
+        {
+            "id": "91f74414-ff67-4bf8-aaf0-5cb6d8aff37e",
+            "type": "type",
+            "name": "Gender",
+            "attributes": {
+                "definition": "A classification system for identifying individuals based on their sex or gender identity."
+            }
+        },
+        {
+            "id": "927efdf0-f05f-4cb1-bfbc-6086ede29ee8",
+            "type": "type",
+            "name": "Actor",
+            "attributes": {
+                "definition": "An individual who performs in films, television, theater, or other performing arts."
+            }
+        },
+        {
+            "id": "db2526e7-16b3-4eea-8a0e-4b93ca29957f",
+            "type": "type",
+            "name": "Film",
+            "attributes": {
+                "definition": "A film is a motion picture or movie produced for entertainment, education, or artistic expression."
+            }
+        },
+        {
+            "id": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "type": "type",
+            "name": "Musician",
+            "attributes": {
+                "definition": "An individual who performs, composes, or conducts music professionally."
+            }
+        },
+        {
+            "id": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "type": "type",
+            "name": "Person",
+            "attributes": {
+                "definition": "An individual human being, typically recognized by a name, involved in various professions or activities."
+            }
+        },
+        {
+            "id": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Location",
+            "attributes": {
+                "definition": "A geographical area or place that can be identified or named."
+            }
+        },
+        {
+            "id": "95d77a8f-7c0c-493d-bbd1-c331cb0c0812",
+            "type": "type",
+            "name": "Technology",
+            "attributes": {
+                "definition": "A field involving the application of scientific knowledge for practical purposes."
+            }
+        },
+        {
+            "id": "5905a7ff-5e26-444e-a610-1a17e53c07be",
+            "type": "type",
+            "name": "Film Producer",
+            "attributes": {
+                "definition": "A film producer is responsible for overseeing the production of a film, from development to completion."
+            }
+        },
+        {
+            "id": "65f95296-914f-4f45-948d-a336deebc7ba",
+            "type": "type",
+            "name": "Genders",
+            "attributes": {
+                "definition": "A classification of individuals based on their sex or identity."
+            }
+        },
+        {
+            "id": "e3bdbcd9-548b-4f50-9cc0-c9c7bd36c2fa",
+            "type": "type",
+            "name": "Authors",
+            "attributes": {
+                "definition": "Individuals who write books, articles, or other literary works."
+            }
+        },
+        {
+            "id": "35d933be-fcff-4f70-9c70-cb496965dd7a",
+            "type": "type",
+            "name": "Comedian",
+            "attributes": {
+                "definition": "A person who performs comedy to entertain an audience through humor and jokes."
+            }
+        },
+        {
+            "id": "599590d4-b518-4f6e-9aef-9c15eba415b9",
+            "type": "type",
+            "name": "Filmmakers",
+            "attributes": {
+                "definition": "Individuals involved in the creation, production, or direction of films."
+            }
+        },
+        {
+            "id": "849ba71b-f2a2-484b-b0fd-d5d04e392a02",
+            "type": "type",
+            "name": "Directions",
+            "attributes": {
+                "definition": ""
+            }
+        },
+        {
+            "id": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Occupation",
+            "attributes": {
+                "definition": "A category describing a person's job or profession, often indicating their role or field of work."
+            }
+        },
+        {
+            "id": "78c112d7-eec4-48f0-a92e-030f9091950e",
+            "type": "type",
+            "name": "Number",
+            "attributes": {
+                "definition": "A numerical value representing a quantity or position in a sequence."
+            }
+        },
+        {
+            "id": "19676842-8791-4230-ae61-37dbee40b783",
+            "type": "type",
+            "name": "Screenwriter",
+            "attributes": {
+                "definition": "A screenwriter is a person who writes scripts for films, television shows, or other visual media."
+            }
+        },
+        {
+            "id": "e3d6622c-74ff-487e-90d8-8a32c60b7cc6",
+            "type": "type",
+            "name": "Philosopher",
+            "attributes": {
+                "definition": "A philosopher is an individual who seeks wisdom and knowledge about fundamental questions of existence and reality."
+            }
+        },
+        {
+            "id": "6127a45d-8f57-4aa0-befd-66d849f5aeab",
+            "type": "type",
+            "name": "Counties",
+            "attributes": {
+                "definition": "A county is a geographical and administrative region within a state or country."
+            }
+        },
+        {
+            "id": "61a7edce-90dc-48c9-b3e8-4ad1d2163210",
+            "type": "type",
+            "name": "Names",
+            "attributes": {
+                "definition": "A category for identifying or referring to individuals, places, or objects."
+            }
+        },
+        {
+            "id": "e38baa2b-0de1-4471-9e78-3fe8864ea5cf",
+            "type": "type",
+            "name": "Places",
+            "attributes": {
+                "definition": "A location or area that can be identified geographically or politically."
+            }
+        },
+        {
+            "id": "15625cf3-8316-432a-a639-77bbb67eb022",
+            "type": "type",
+            "name": "Fictional Character",
+            "attributes": {
+                "definition": "A fictional character is a person or being in a narrative created by an author."
+            }
+        },
+        {
+            "id": "1bfdd75e-331b-4b14-bf67-3fe456798af4",
+            "type": "type",
+            "name": "City",
+            "attributes": {
+                "definition": "A large human settlement typically characterized by extensive infrastructure and a significant population."
+            }
+        },
+        {
+            "id": "3cac4246-cde3-47cd-a642-4e2d8dd38e05",
+            "type": "type",
+            "name": "Director",
+            "attributes": {
+                "definition": "A person responsible for overseeing the artistic and dramatic aspects of a film or television production."
+            }
+        },
+        {
+            "id": "1eccfea7-8ed2-44a1-81cf-13140263f31b",
+            "type": "type",
+            "name": "Television Series",
+            "attributes": {
+                "definition": "A television series is a set of related episodes broadcast on TV, typically with a common theme or storyline."
+            }
+        },
+        {
+            "id": "6788d918-2723-40f2-ad9f-30b2b1173f6e",
+            "type": "type",
+            "name": "Film and Television",
+            "attributes": {
+                "definition": "Works of visual storytelling, including movies, TV shows, and series."
+            }
+        },
+        {
+            "id": "0ed1512f-cc49-46db-af1a-2ef7803ba843",
+            "type": "type",
+            "name": "Concepts",
+            "attributes": {
+                "definition": "Abstract ideas or general notions that occur in the mind, in speech, or in thought."
+            }
+        },
+        {
+            "id": "58586923-9d63-4515-8ba0-2cdee25d1a3e",
+            "type": "type",
+            "name": "Geographical Locations",
+            "attributes": {
+                "definition": "Areas or places with specific geographical boundaries or significance."
+            }
+        },
+        {
+            "id": "ac546236-0a78-484b-b13e-522d24e6ea06",
+            "type": "type",
+            "name": "Book",
+            "attributes": {
+                "definition": "A written or printed work of fiction or nonfiction, usually bound in covers."
+            }
+        },
+        {
+            "id": "d2001551-d2ac-42fc-90b1-4da3ea3e8c63",
+            "type": "type",
+            "name": "Music",
+            "attributes": {
+                "definition": "A form of art that uses sound as its medium, often involving rhythm, melody, and harmony."
+            }
+        },
+        {
+            "id": "21c631ac-4d71-42f6-86d8-c0c2091b4a2d",
+            "type": "type",
+            "name": "Ethnic Group",
+            "attributes": {
+                "definition": "A category of people who identify with each other based on shared cultural, linguistic, or ancestral traits."
+            }
+        },
+        {
+            "id": "8a3ad59a-c2f3-4a8b-bf7f-9c9fb566f6f1",
+            "type": "type",
+            "name": "Film Titles",
+            "attributes": {
+                "definition": "Names of movies or films, typically used to identify and categorize cinematic works."
+            }
+        },
+        {
+            "id": "81b656f1-0c8e-498c-a782-2174f81f5c30",
+            "type": "type",
+            "name": "Songwriters",
+            "attributes": {
+                "definition": "Individuals who write the lyrics or music for songs."
+            }
+        },
+        {
+            "id": "dc2ea14b-1d46-4fb3-8308-72617e439f58",
+            "type": "type",
+            "name": "Music Professions",
+            "attributes": {
+                "definition": "Roles involving the creation, performance, or production of music."
+            }
+        },
+        {
+            "id": "2cf026c6-7132-44d2-8d5e-e079fc24ef71",
+            "type": "type",
+            "name": "Writers",
+            "attributes": {
+                "definition": "Individuals who create written works such as novels, essays, or articles."
+            }
+        },
+        {
+            "id": "bc1e493d-ea42-4b82-b9d2-1c04b5962683",
+            "type": "type",
+            "name": "Religious Figure",
+            "attributes": {
+                "definition": "A person recognized for their significant role or influence in a religious context."
+            }
+        },
+        {
+            "id": "08f18e19-c9af-4d7c-abd4-f15e79213266",
+            "type": "type",
+            "name": "Television Personality",
+            "attributes": {
+                "definition": "A person known for appearing on television, often as a host, presenter, or commentator."
+            }
+        },
+        {
+            "id": "c5c79f21-f5e5-477b-8a90-c8638345dcee",
+            "type": "type",
+            "name": "Event",
+            "attributes": {
+                "definition": "An occurrence or happening, often significant, that is scheduled or planned."
+            }
+        },
+        {
+            "id": "af51f469-b8fb-4f94-a0b2-f11e9686e0d1",
+            "type": "type",
+            "name": "Time Zone",
+            "attributes": {
+                "definition": "A region where the same standard time is used."
+            }
+        },
+        {
+            "id": "d302446a-9bc1-46c9-a4eb-3dc4b5c8b3f4",
+            "type": "type",
+            "name": "US Presidents",
+            "attributes": {
+                "definition": "Individuals who have served as the head of state and government of the United States."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "913e2e52-d764-4798-88ed-c39bc0e8a402",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a1d7cee7-fce0-4dc3-b8a0-d3e06f6ac438",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9322012a-32d6-4456-8f45-0d3ee4f3c4e0",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "913e2e52-d764-4798-88ed-c39bc0e8a402",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1ffa264c-8937-4c19-ac5e-865cb1d975cb",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "baae484b-0795-4dfe-b830-526491bfd66e",
+            "target": "91f74414-ff67-4bf8-aaf0-5cb6d8aff37e",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "927efdf0-f05f-4cb1-bfbc-6086ede29ee8",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "db2526e7-16b3-4eea-8a0e-4b93ca29957f",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "baae484b-0795-4dfe-b830-526491bfd66e",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "db2526e7-16b3-4eea-8a0e-4b93ca29957f",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "db2526e7-16b3-4eea-8a0e-4b93ca29957f",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Divides",
+            "attributes": {
+                "definition": "The relationship type indicates the hierarchical division of a country into its second-level administrative regions.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "95d77a8f-7c0c-493d-bbd1-c331cb0c0812",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "913e2e52-d764-4798-88ed-c39bc0e8a402",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5905a7ff-5e26-444e-a610-1a17e53c07be",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Is located in",
+            "attributes": {
+                "definition": "This relationship type indicates the geographical or temporal placement of an entity within a specific area or time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9322012a-32d6-4456-8f45-0d3ee4f3c4e0",
+            "target": "65f95296-914f-4f45-948d-a336deebc7ba",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e3bdbcd9-548b-4f50-9cc0-c9c7bd36c2fa",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "35d933be-fcff-4f70-9c70-cb496965dd7a",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9322012a-32d6-4456-8f45-0d3ee4f3c4e0",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Originates From",
+            "attributes": {
+                "definition": "The relationship type indicates the country where a TV program, TV, or film was produced.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "599590d4-b518-4f6e-9aef-9c15eba415b9",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "849ba71b-f2a2-484b-b0fd-d5d04e392a02",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "78c112d7-eec4-48f0-a92e-030f9091950e",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "19676842-8791-4230-ae61-37dbee40b783",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e3d6622c-74ff-487e-90d8-8a32c60b7cc6",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "6127a45d-8f57-4aa0-befd-66d849f5aeab",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "61a7edce-90dc-48c9-b3e8-4ad1d2163210",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "e38baa2b-0de1-4471-9e78-3fe8864ea5cf",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e38baa2b-0de1-4471-9e78-3fe8864ea5cf",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Is located in",
+            "attributes": {
+                "definition": "This relationship type indicates the geographical or temporal placement of an entity within a specific area or time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a1d7cee7-fce0-4dc3-b8a0-d3e06f6ac438",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "15625cf3-8316-432a-a639-77bbb67eb022",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Originates From",
+            "attributes": {
+                "definition": "The relationship type indicates the country where a TV program, TV, or film was produced.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1bfdd75e-331b-4b14-bf67-3fe456798af4",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Is located in",
+            "attributes": {
+                "definition": "This relationship type indicates the geographical or temporal placement of an entity within a specific area or time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3cac4246-cde3-47cd-a642-4e2d8dd38e05",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "6127a45d-8f57-4aa0-befd-66d849f5aeab",
+            "type": "type",
+            "name": "Contains",
+            "attributes": {
+                "definition": "A relationship where a larger location includes a smaller location within its boundaries.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1eccfea7-8ed2-44a1-81cf-13140263f31b",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6788d918-2723-40f2-ad9f-30b2b1173f6e",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6788d918-2723-40f2-ad9f-30b2b1173f6e",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6788d918-2723-40f2-ad9f-30b2b1173f6e",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "0ed1512f-cc49-46db-af1a-2ef7803ba843",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1eccfea7-8ed2-44a1-81cf-13140263f31b",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "58586923-9d63-4515-8ba0-2cdee25d1a3e",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "58586923-9d63-4515-8ba0-2cdee25d1a3e",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ac546236-0a78-484b-b13e-522d24e6ea06",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "927efdf0-f05f-4cb1-bfbc-6086ede29ee8",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d2001551-d2ac-42fc-90b1-4da3ea3e8c63",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "21c631ac-4d71-42f6-86d8-c0c2091b4a2d",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "Speaks",
+            "attributes": {
+                "definition": "The relationship type indicates the languages spoken by different ethnic groups or individuals.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1bfdd75e-331b-4b14-bf67-3fe456798af4",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "baae484b-0795-4dfe-b830-526491bfd66e",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ac546236-0a78-484b-b13e-522d24e6ea06",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Belongs to",
+            "attributes": {
+                "definition": "This relationship type indicates the association between an entity and its category or classification.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8a3ad59a-c2f3-4a8b-bf7f-9c9fb566f6f1",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8a3ad59a-c2f3-4a8b-bf7f-9c9fb566f6f1",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "81b656f1-0c8e-498c-a782-2174f81f5c30",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9322012a-32d6-4456-8f45-0d3ee4f3c4e0",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1eccfea7-8ed2-44a1-81cf-13140263f31b",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "Has Attribute",
+            "attributes": {
+                "definition": "This relationship type associates an entity with its characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "e3bdbcd9-548b-4f50-9cc0-c9c7bd36c2fa",
+            "target": "91f74414-ff67-4bf8-aaf0-5cb6d8aff37e",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "dc2ea14b-1d46-4fb3-8308-72617e439f58",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Is Specialization Of",
+            "attributes": {
+                "definition": "A relationship where one profession is a more specific form of another broader profession.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2cf026c6-7132-44d2-8d5e-e079fc24ef71",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d2001551-d2ac-42fc-90b1-4da3ea3e8c63",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1eccfea7-8ed2-44a1-81cf-13140263f31b",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "bc1e493d-ea42-4b82-b9d2-1c04b5962683",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "08f18e19-c9af-4d7c-abd4-f15e79213266",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Categorize by Association",
+            "attributes": {
+                "definition": "Grouping entities based on shared characteristics or attributes.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "21c631ac-4d71-42f6-86d8-c0c2091b4a2d",
+            "target": "8d656ea8-13de-4cb3-95a4-fe04bca52dfa",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "927efdf0-f05f-4cb1-bfbc-6086ede29ee8",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "c5c79f21-f5e5-477b-8a90-c8638345dcee",
+            "target": "df74a9ae-fae8-4d60-92a4-17124f87419b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "5905a7ff-5e26-444e-a610-1a17e53c07be",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1ffa264c-8937-4c19-ac5e-865cb1d975cb",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1bfdd75e-331b-4b14-bf67-3fe456798af4",
+            "target": "1c888277-4ea4-42dd-8098-37cfdd6c2f61",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "target": "af51f469-b8fb-4f94-a0b2-f11e9686e0d1",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "925df8d2-7620-4561-bdb4-e5fa26c7013f",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "91f74414-ff67-4bf8-aaf0-5cb6d8aff37e",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "d302446a-9bc1-46c9-a4eb-3dc4b5c8b3f4",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "599590d4-b518-4f6e-9aef-9c15eba415b9",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a1d7cee7-fce0-4dc3-b8a0-d3e06f6ac438",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "egorize by Attribute",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1bfdd75e-331b-4b14-bf67-3fe456798af4",
+            "target": "8218ea25-c4b5-4da2-b54a-09dd02d55268",
+            "type": "type",
+            "name": "Is located in",
+            "attributes": {
+                "definition": "This relationship type indicates the geographical or temporal placement of an entity within a specific area or time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "db2526e7-16b3-4eea-8a0e-4b93ca29957f",
+            "target": "91f74414-ff67-4bf8-aaf0-5cb6d8aff37e",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "eb865430-1697-4bda-ad3d-101ffbb1567b",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "001567fa-2c96-4965-a2c9-2df01621d30a",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1488ff93-fae3-4a1b-baa1-c8a6fe50cf0c",
+            "target": "19676842-8791-4230-ae61-37dbee40b783",
+            "type": "type",
+            "name": "Describes",
+            "attributes": {
+                "definition": "The relationship type indicates the association between two entities or concepts.",
+                "source_user_add": "true"
+            }
+        }
+    ]
+}

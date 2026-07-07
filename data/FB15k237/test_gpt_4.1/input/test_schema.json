@@ -1,0 +1,632 @@
+{
+    "nodes": [
+        {
+            "id": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "type": "type",
+            "name": "Film",
+            "attributes": {
+                "definition": "A film is a work of visual storytelling presented as a motion picture, typically for entertainment or artistic purposes."
+            }
+        },
+        {
+            "id": "662ab6ad-c5ce-4a02-a590-e78ddf282940",
+            "type": "type",
+            "name": "Film Genre",
+            "attributes": {
+                "definition": "A category used to classify films based on their narrative style, themes, and tone."
+            }
+        },
+        {
+            "id": "11f92ea6-758d-4db7-bbe6-c0df6877a0a0",
+            "type": "type",
+            "name": "Actor",
+            "attributes": {
+                "definition": "A person who performs characters in films, television, theater, or other dramatic productions."
+            }
+        },
+        {
+            "id": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Profession",
+            "attributes": {
+                "definition": "Indicates the occupation or job role associated with a person."
+            }
+        },
+        {
+            "id": "1950ea73-62dd-42b9-a09b-6aff4e7114a1",
+            "type": "type",
+            "name": "Political Figure",
+            "attributes": {
+                "definition": "A person who plays a significant role in government, public affairs, or political decision-making."
+            }
+        },
+        {
+            "id": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Nationality",
+            "attributes": {
+                "definition": "Nationality indicates the country or nation to which an entity belongs."
+            }
+        },
+        {
+            "id": "7c383db6-658a-4b4e-be29-aa2a72d9406e",
+            "type": "type",
+            "name": "Screenwriter",
+            "attributes": {
+                "definition": "A person who writes scripts for films, television shows, or other visual media productions."
+            }
+        },
+        {
+            "id": "82331b29-bdbc-4549-b018-c7f9dff712ec",
+            "type": "type",
+            "name": "Writer",
+            "attributes": {
+                "definition": "A writer is a person who composes literary, artistic, or journalistic texts."
+            }
+        },
+        {
+            "id": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Gender",
+            "attributes": {
+                "definition": "Category that classifies individuals based on their sex or social identity."
+            }
+        },
+        {
+            "id": "38fc8e04-caef-4269-bc0c-e4c4e1ab6903",
+            "type": "type",
+            "name": "Songwriter",
+            "attributes": {
+                "definition": "A songwriter is a person who composes the lyrics or music for songs."
+            }
+        },
+        {
+            "id": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "Place",
+            "attributes": {
+                "definition": "A geographic location or administrative area such as a city, county, region, or country."
+            }
+        },
+        {
+            "id": "9c28af82-df50-4810-988e-f28b573f90d7",
+            "type": "type",
+            "name": "Film Producer",
+            "attributes": {
+                "definition": "A person responsible for overseeing the production and financing of films from development to completion."
+            }
+        },
+        {
+            "id": "585bfa72-e05c-4055-a5f0-845f4b4540b1",
+            "type": "type",
+            "name": "Religious Figure",
+            "attributes": {
+                "definition": "A person recognized for significant influence or leadership within a religious tradition."
+            }
+        },
+        {
+            "id": "b553d52f-28d4-4af0-8e75-99b1cfda6385",
+            "type": "type",
+            "name": "Film Character",
+            "attributes": {
+                "definition": "A fictional person or being portrayed in a film or movie narrative."
+            }
+        },
+        {
+            "id": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "type": "type",
+            "name": "Person Name",
+            "attributes": {
+                "definition": "A unique identifier referring to an individual human, typically associated with people’s real or stage names."
+            }
+        },
+        {
+            "id": "8c5091ef-280d-4e01-b1e7-d755d726789f",
+            "type": "type",
+            "name": "Television Producer",
+            "attributes": {
+                "definition": "A person responsible for overseeing the creation and production of television programs."
+            }
+        },
+        {
+            "id": "ead467db-0ec2-4036-ad54-37e3f16cf33b",
+            "type": "type",
+            "name": "Number",
+            "attributes": {
+                "definition": "A mathematical entity used for counting, measuring, and labeling."
+            }
+        },
+        {
+            "id": "a4d9c0e3-5a08-470f-9851-6ee8a0d5c1a5",
+            "type": "type",
+            "name": "Musician",
+            "attributes": {
+                "definition": "A person who composes, performs, or conducts music as a profession or hobby."
+            }
+        },
+        {
+            "id": "869e6e83-8bbc-4d0f-8271-573dd3f385b4",
+            "type": "type",
+            "name": "Film Director",
+            "attributes": {
+                "definition": "A person who directs the artistic and dramatic aspects of a film production."
+            }
+        },
+        {
+            "id": "6e37bd5e-3a20-48ab-9390-28baa2580ee8",
+            "type": "type",
+            "name": "Television Series",
+            "attributes": {
+                "definition": "A form of episodic audiovisual entertainment broadcast on television, usually telling a continuous or thematic story."
+            }
+        },
+        {
+            "id": "269b398a-ccc2-47b1-baf6-e989f5f1d613",
+            "type": "type",
+            "name": "Ethnic Group",
+            "attributes": {
+                "definition": "A community of people sharing common cultural, linguistic, or ancestral heritage."
+            }
+        },
+        {
+            "id": "675e0fa9-0170-4fa4-9a24-550441a29957",
+            "type": "type",
+            "name": "Event",
+            "attributes": {
+                "definition": "An occurrence or happening, especially a significant social, cultural, or historical activity."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "662ab6ad-c5ce-4a02-a590-e78ddf282940",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "11f92ea6-758d-4db7-bbe6-c0df6877a0a0",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1950ea73-62dd-42b9-a09b-6aff4e7114a1",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7c383db6-658a-4b4e-be29-aa2a72d9406e",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "82331b29-bdbc-4549-b018-c7f9dff712ec",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "38fc8e04-caef-4269-bc0c-e4c4e1ab6903",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has Country",
+            "attributes": {
+                "definition": "Indicates the country that a film is associated with.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "target": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "is located in",
+            "attributes": {
+                "definition": "Indicates a spatial or administrative containment relationship between two geographic entities.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "82331b29-bdbc-4549-b018-c7f9dff712ec",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "11f92ea6-758d-4db7-bbe6-c0df6877a0a0",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9c28af82-df50-4810-988e-f28b573f90d7",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "uses_time_zone",
+            "attributes": {
+                "definition": "Indicates that an entity adopts or operates according to a specific time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1950ea73-62dd-42b9-a09b-6aff4e7114a1",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "585bfa72-e05c-4055-a5f0-845f4b4540b1",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Is originated from",
+            "attributes": {
+                "definition": "Indicates the country where a TV program was originally produced or created.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "b553d52f-28d4-4af0-8e75-99b1cfda6385",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "8c5091ef-280d-4e01-b1e7-d755d726789f",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "ead467db-0ec2-4036-ad54-37e3f16cf33b",
+            "target": "662ab6ad-c5ce-4a02-a590-e78ddf282940",
+            "type": "type",
+            "name": "produce",
+            "attributes": {
+                "definition": "The \"produce\" relationship represents the entity that creates or makes another entity, such as a film or TV program.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "target": "662ab6ad-c5ce-4a02-a590-e78ddf282940",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a4d9c0e3-5a08-470f-9851-6ee8a0d5c1a5",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has Country",
+            "attributes": {
+                "definition": "Indicates the country that a film is associated with.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "target": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "uses_time_zone",
+            "attributes": {
+                "definition": "Indicates that an entity adopts or operates according to a specific time zone.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "869e6e83-8bbc-4d0f-8271-573dd3f385b4",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Is originated from",
+            "attributes": {
+                "definition": "Indicates the country where a TV program was originally produced or created.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "target": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "country_of_film",
+            "attributes": {
+                "definition": "the country where the film was produced or set.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Is originated from",
+            "attributes": {
+                "definition": "Indicates the country where a TV program was originally produced or created.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6e37bd5e-3a20-48ab-9390-28baa2580ee8",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Is originated from",
+            "attributes": {
+                "definition": "Indicates the country where a TV program was originally produced or created.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "269b398a-ccc2-47b1-baf6-e989f5f1d613",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "is spoken by",
+            "attributes": {
+                "definition": "The relationship indicating which language is used by a specific group, film, or ethnic people.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "6e37bd5e-3a20-48ab-9390-28baa2580ee8",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "speaks",
+            "attributes": {
+                "definition": "The ability or action of an entity to use or communicate in a specific language.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7c383db6-658a-4b4e-be29-aa2a72d9406e",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "target": "30303aca-f0aa-44b7-9f1c-cfd3a127a5d0",
+            "type": "type",
+            "name": "has_specialization",
+            "attributes": {
+                "definition": "Indicates that a profession or person possesses a specific area of expertise or focus.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a4d9c0e3-5a08-470f-9851-6ee8a0d5c1a5",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "82331b29-bdbc-4549-b018-c7f9dff712ec",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6e37bd5e-3a20-48ab-9390-28baa2580ee8",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has Country",
+            "attributes": {
+                "definition": "Indicates the country that a film is associated with.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "675e0fa9-0170-4fa4-9a24-550441a29957",
+            "target": "662ab6ad-c5ce-4a02-a590-e78ddf282940",
+            "type": "type",
+            "name": "Describes type as",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "11f92ea6-758d-4db7-bbe6-c0df6877a0a0",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "target": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "type": "type",
+            "name": "uses_time_zone",
+            "attributes": {
+                "definition": "Indicates that an entity adopts or operates according to a specific time zone.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "51bc5461-4786-4a36-852f-b4036fc57423",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "38fc8e04-caef-4269-bc0c-e4c4e1ab6903",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "Has attribute as",
+            "attributes": {
+                "definition": "Connects an entity to a specific characteristic or quality it possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "074c3e80-138e-4e7e-b8e8-56e33af8e3af",
+            "target": "49ad970a-2b3a-4e12-a091-e24b894cdf05",
+            "type": "type",
+            "name": "is_located_in",
+            "attributes": {
+                "definition": "Indicates a spatial or jurisdictional containment relationship between two locations or entities.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "42ffd32e-4d12-4460-befa-6b69452d3762",
+            "target": "b6e467cb-8121-447c-a5a1-595cfdc561bb",
+            "type": "type",
+            "name": "Has Gender",
+            "attributes": {
+                "definition": "Indicates the biological or social gender classification of a person.",
+                "source_user_add": "true"
+            }
+        }
+    ]
+}

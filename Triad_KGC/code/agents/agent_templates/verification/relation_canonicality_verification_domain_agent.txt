@@ -1,0 +1,12 @@
+Answer the question about entity knowledge.
+Ensure the correctness and purity of the output content format, without attaching any explanations or labels.
+
+Example:
+input: What is the primary simple information of the teacher?
+output: The main job of teachers is to teach and educate students, and they are active in the field of technical education in various universities.
+input: What is the primary simple information of the student?
+output: Students are the main body of the school, and their main task is to learn knowledge.
+
+Query:
+input: What is the primary simple information of the {{entity}}?
+output:

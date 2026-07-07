@@ -1,0 +1,1188 @@
+{
+    "nodes": [
+        {
+            "id": "2bad66da-7cbe-4a68-93de-a80c64c61170",
+            "type": "type",
+            "name": "Films",
+            "attributes": {
+                "definition": "Films are motion pictures created for entertainment or informational purposes."
+            }
+        },
+        {
+            "id": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Film Genres",
+            "attributes": {
+                "definition": "Film Genres are categories classifying films based on their narrative, thematic content, or emotional impact."
+            }
+        },
+        {
+            "id": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "type": "type",
+            "name": "People",
+            "attributes": {
+                "definition": "Individual human beings, often notable for their professions or historical significance."
+            }
+        },
+        {
+            "id": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Professions",
+            "attributes": {
+                "definition": "Professions are various occupations or fields of work that individuals engage in for a living."
+            }
+        },
+        {
+            "id": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "type": "type",
+            "name": "Geographical Location",
+            "attributes": {
+                "definition": "A specific place or area on Earth, often identifiable by coordinates or names."
+            }
+        },
+        {
+            "id": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Language/Nationality",
+            "attributes": {
+                "definition": "A category representing the primary spoken language or the national origin of a person or group."
+            }
+        },
+        {
+            "id": "3a36db64-e50e-48e4-a7c3-239efd4ac4d9",
+            "type": "type",
+            "name": "Named Individuals",
+            "attributes": {
+                "definition": "Named individuals represent unique, identifiable persons or entities referred to by proper names."
+            }
+        },
+        {
+            "id": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Gender",
+            "attributes": {
+                "definition": "Gender is a classification of individuals, often based on social roles, identity, or biological sex."
+            }
+        },
+        {
+            "id": "2306b709-711c-460a-946d-a7c08930dec0",
+            "type": "type",
+            "name": "Creative Works",
+            "attributes": {
+                "definition": "Original artistic or intellectual creations, including films, books, and plays."
+            }
+        },
+        {
+            "id": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Geopolitical Entities",
+            "attributes": {
+                "definition": "A geographical area or political unit with defined boundaries and governance, often having strategic significance."
+            }
+        },
+        {
+            "id": "a528ad23-fe55-4b52-b5ec-aa36e474e306",
+            "type": "type",
+            "name": "Motion Pictures",
+            "attributes": {
+                "definition": "Motion pictures are cinematic works, typically films, created for entertainment or information."
+            }
+        },
+        {
+            "id": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "type": "type",
+            "name": "Individuals",
+            "attributes": {
+                "definition": "Individuals are specific, identifiable people, often notable for their contributions in various fields."
+            }
+        },
+        {
+            "id": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Occupations",
+            "attributes": {
+                "definition": "Occupations are roles or professions that individuals undertake for work or livelihood."
+            }
+        },
+        {
+            "id": "6612dd22-99b4-4879-82f6-62f848494f5b",
+            "type": "type",
+            "name": "Performer",
+            "attributes": {
+                "definition": "A performer is an individual who entertains an audience through various artistic activities like acting, singing, or dancing."
+            }
+        },
+        {
+            "id": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "type": "type",
+            "name": "Film",
+            "attributes": {
+                "definition": "A film is a complete motion picture work, typically released for public viewing."
+            }
+        },
+        {
+            "id": "f0f1326e-5389-4d58-8670-5ffe547ab6bb",
+            "type": "type",
+            "name": "Filmmakers and Performers",
+            "attributes": {
+                "definition": "Individuals involved in creating and acting in films, television, or theater productions."
+            }
+        },
+        {
+            "id": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Country",
+            "attributes": {
+                "definition": "A country is a distinct territorial state with its own government and defined borders."
+            }
+        },
+        {
+            "id": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Time Zone",
+            "attributes": {
+                "definition": "A region of the Earth that observes a uniform standard time."
+            }
+        },
+        {
+            "id": "fea92969-cabd-4d9a-b08b-8f4b9abd71f7",
+            "type": "type",
+            "name": "Descriptive Attributes",
+            "attributes": {
+                "definition": "Properties that describe an entity's characteristics or features."
+            }
+        },
+        {
+            "id": "66ab326a-139c-4c09-a876-852acf6a7bce",
+            "type": "type",
+            "name": "County",
+            "attributes": {
+                "definition": "A primary administrative division of a state or country, typically for local government."
+            }
+        },
+        {
+            "id": "1a8c722a-4fe2-4208-898b-05e901859f6b",
+            "type": "type",
+            "name": "Film Title",
+            "attributes": {
+                "definition": "The official name given to a movie for identification and marketing purposes."
+            }
+        },
+        {
+            "id": "e3d1482b-ecbb-490a-8794-100df12fa43d",
+            "type": "type",
+            "name": "Actors",
+            "attributes": {
+                "definition": "Individuals who portray characters in theatrical, film, or television productions."
+            }
+        },
+        {
+            "id": "4ec03f77-b52e-41b2-8f87-7ad990a5fdb4",
+            "type": "type",
+            "name": "Television Series",
+            "attributes": {
+                "definition": "A set of broadcast programs with a common title, typically presented in installments."
+            }
+        },
+        {
+            "id": "060dcb1e-82b7-4631-8344-465b65eafadf",
+            "type": "type",
+            "name": "Film Directors",
+            "attributes": {
+                "definition": "Individuals responsible for overseeing the creative aspects of a film's production."
+            }
+        },
+        {
+            "id": "df4dfae2-d08b-4b92-8fad-69c043e4bf36",
+            "type": "type",
+            "name": "Entertainment Industry Professionals",
+            "attributes": {
+                "definition": "Individuals working in various roles within the film, television, music, or performing arts sectors."
+            }
+        },
+        {
+            "id": "ac5d542d-a10a-4e3e-a0b7-5a995546ade7",
+            "type": "type",
+            "name": "Historical Figure",
+            "attributes": {
+                "definition": "A historical figure is a person who played a significant role in past events or history."
+            }
+        },
+        {
+            "id": "1726da0d-15e6-4d8a-860f-6ee595006e6d",
+            "type": "type",
+            "name": "Location",
+            "attributes": {
+                "definition": "A specific place, point, or area on Earth."
+            }
+        },
+        {
+            "id": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "type": "type",
+            "name": "Media Works",
+            "attributes": {
+                "definition": "Creative content distributed through various media, including films, television shows, and recorded events."
+            }
+        },
+        {
+            "id": "f5f9a0e8-5d5c-45cf-85f1-5bd9af5bba0a",
+            "type": "type",
+            "name": "Creative Individuals",
+            "attributes": {
+                "definition": "Individuals recognized for their artistic, innovative, or imaginative contributions to various fields."
+            }
+        },
+        {
+            "id": "e054d6a4-29f5-4ae5-ad19-4011108bf24a",
+            "type": "type",
+            "name": "Individual Person",
+            "attributes": {
+                "definition": "A single human being, distinct from a group or organization."
+            }
+        },
+        {
+            "id": "1ed396fb-3928-445d-af8b-5d9e893d2b9d",
+            "type": "type",
+            "name": "Demographic Attributes",
+            "attributes": {
+                "definition": "Characteristics used to describe a population, such as ethnicity, gender, or nationality."
+            }
+        },
+        {
+            "id": "1b6181b3-ec5f-4807-a228-3f92e66a0db1",
+            "type": "type",
+            "name": "Film and Television Production",
+            "attributes": {
+                "definition": "This entity type represents various works created for cinematic or broadcast media."
+            }
+        },
+        {
+            "id": "29a06290-dda5-461b-81bb-784b180af539",
+            "type": "type",
+            "name": "Musicians",
+            "attributes": {
+                "definition": "A musician is a person who composes, conducts, or performs music."
+            }
+        },
+        {
+            "id": "54819575-d9cd-4168-8ae7-37b2bd1a820f",
+            "type": "type",
+            "name": "Notable Individuals",
+            "attributes": {
+                "definition": "Individuals recognized for their significant achievements or public prominence in various fields."
+            }
+        },
+        {
+            "id": "63755781-2c41-4aab-b514-174343fee95f",
+            "type": "type",
+            "name": "Audiovisual Works",
+            "attributes": {
+                "definition": "Creative works combining sound and visual elements for presentation."
+            }
+        },
+        {
+            "id": "90e17461-627d-48c0-8754-e31d33c698bd",
+            "type": "type",
+            "name": "Film Professions",
+            "attributes": {
+                "definition": "Roles or individuals involved in the creation and production of movies."
+            }
+        },
+        {
+            "id": "16216616-f583-470d-8dcc-a3581b68d8de",
+            "type": "type",
+            "name": "Holiday/Event",
+            "attributes": {
+                "definition": "A Holiday/Event is a special day or period, often celebrated, commemorating an event or tradition."
+            }
+        },
+        {
+            "id": "afd1feac-9819-40e0-ad0f-9ba848586302",
+            "type": "type",
+            "name": "City",
+            "attributes": {
+                "definition": "A large, permanent human settlement with a defined administrative boundary, typically a major center of population and commerce."
+            }
+        },
+        {
+            "id": "55bd1935-0b8b-43db-8cf0-d25b0ea67941",
+            "type": "type",
+            "name": "Classification",
+            "attributes": {
+                "definition": "Classification refers to various categories or attributes used to describe an entity."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "2bad66da-7cbe-4a68-93de-a80c64c61170",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2bad66da-7cbe-4a68-93de-a80c64c61170",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a36db64-e50e-48e4-a7c3-239efd4ac4d9",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Has personal characteristic",
+            "attributes": {
+                "definition": "Indicates an entity possesses a specific personal attribute or quality.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a36db64-e50e-48e4-a7c3-239efd4ac4d9",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2306b709-711c-460a-946d-a7c08930dec0",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2306b709-711c-460a-946d-a7c08930dec0",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a528ad23-fe55-4b52-b5ec-aa36e474e306",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a528ad23-fe55-4b52-b5ec-aa36e474e306",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Contains Subdivision",
+            "attributes": {
+                "definition": "Describes a larger entity encompassing its smaller, administrative or geographical divisions.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "6612dd22-99b4-4879-82f6-62f848494f5b",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "f0f1326e-5389-4d58-8670-5ffe547ab6bb",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "2bad66da-7cbe-4a68-93de-a80c64c61170",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2bad66da-7cbe-4a68-93de-a80c64c61170",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a36db64-e50e-48e4-a7c3-239efd4ac4d9",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Location Has Attribute",
+            "attributes": {
+                "definition": "A relationship indicating that a geographical location possesses or is characterized by certain properties or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "fea92969-cabd-4d9a-b08b-8f4b9abd71f7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "66ab326a-139c-4c09-a876-852acf6a7bce",
+            "type": "type",
+            "name": "Contains Subdivision",
+            "attributes": {
+                "definition": "Describes a larger entity encompassing its smaller, administrative or geographical divisions.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1a8c722a-4fe2-4208-898b-05e901859f6b",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1a8c722a-4fe2-4208-898b-05e901859f6b",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1a8c722a-4fe2-4208-898b-05e901859f6b",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e3d1482b-ecbb-490a-8794-100df12fa43d",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "4ec03f77-b52e-41b2-8f87-7ad990a5fdb4",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Has Genre",
+            "attributes": {
+                "definition": "Indicates the genre or category to which a creative work belongs.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "type": "type",
+            "name": "Contains Subdivision",
+            "attributes": {
+                "definition": "Describes a larger entity encompassing its smaller, administrative or geographical divisions.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "060dcb1e-82b7-4631-8344-465b65eafadf",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "df4dfae2-d08b-4b92-8fad-69c043e4bf36",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "ac5d542d-a10a-4e3e-a0b7-5a995546ade7",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2306b709-711c-460a-946d-a7c08930dec0",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2306b709-711c-460a-946d-a7c08930dec0",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "1726da0d-15e6-4d8a-860f-6ee595006e6d",
+            "type": "type",
+            "name": "Contains Subdivision",
+            "attributes": {
+                "definition": "Describes a larger entity encompassing its smaller, administrative or geographical divisions.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "1726da0d-15e6-4d8a-860f-6ee595006e6d",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Location Has Attribute",
+            "attributes": {
+                "definition": "A relationship indicating that a geographical location possesses or is characterized by certain properties or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Location Has Attribute",
+            "attributes": {
+                "definition": "A relationship indicating that a geographical location possesses or is characterized by certain properties or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "target": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "type": "type",
+            "name": "Location Has Attribute",
+            "attributes": {
+                "definition": "A relationship indicating that a geographical location possesses or is characterized by certain properties or features.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4ec03f77-b52e-41b2-8f87-7ad990a5fdb4",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "f5f9a0e8-5d5c-45cf-85f1-5bd9af5bba0a",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "4ec03f77-b52e-41b2-8f87-7ad990a5fdb4",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "e054d6a4-29f5-4ae5-ad19-4011108bf24a",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2306b709-711c-460a-946d-a7c08930dec0",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1a8c722a-4fe2-4208-898b-05e901859f6b",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1ed396fb-3928-445d-af8b-5d9e893d2b9d",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes people",
+            "attributes": {
+                "definition": "This relationship type captures various attributes and characteristics associated with individuals.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "df4dfae2-d08b-4b92-8fad-69c043e4bf36",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Possesses Attribute",
+            "attributes": {
+                "definition": "This relationship indicates that an entity has a specific characteristic or quality.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1b6181b3-ec5f-4807-a228-3f92e66a0db1",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "1b6181b3-ec5f-4807-a228-3f92e66a0db1",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "29a06290-dda5-461b-81bb-784b180af539",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "060dcb1e-82b7-4631-8344-465b65eafadf",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "54819575-d9cd-4168-8ae7-37b2bd1a820f",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "63755781-2c41-4aab-b514-174343fee95f",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "54819575-d9cd-4168-8ae7-37b2bd1a820f",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "63755781-2c41-4aab-b514-174343fee95f",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes media characteristics",
+            "attributes": {
+                "definition": "This relationship type links media entities to their intrinsic attributes or features.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "63755781-2c41-4aab-b514-174343fee95f",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4cbe9e33-e755-4aa1-9fad-f505d3e8335a",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Has Characteristic",
+            "attributes": {
+                "definition": "Describes an entity's inherent or defining attribute, quality, or feature.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a3efacf0-210d-4c5c-8d9c-bbe01deb3bfd",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Holds Occupation",
+            "attributes": {
+                "definition": "Describes an entity's professional role or job.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "54819575-d9cd-4168-8ae7-37b2bd1a820f",
+            "target": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Possesses Attribute",
+            "attributes": {
+                "definition": "This relationship indicates that an entity has a specific characteristic or quality.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "90e17461-627d-48c0-8754-e31d33c698bd",
+            "target": "47ad434f-cfd7-490f-b225-0c01b72cce75",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "16216616-f583-470d-8dcc-a3581b68d8de",
+            "target": "7871aca7-e165-4365-8e2a-9bda6958f756",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "3a36db64-e50e-48e4-a7c3-239efd4ac4d9",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "90e17461-627d-48c0-8754-e31d33c698bd",
+            "target": "a1bf24b3-e3b6-4fbb-a3da-23dc6ace61d7",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "90e17461-627d-48c0-8754-e31d33c698bd",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "43fcfb3f-686b-4238-a3a4-169a5d70dca5",
+            "target": "7f2a0184-fee4-4722-9ac2-20342ec8b9a2",
+            "type": "type",
+            "name": "Possesses Attribute",
+            "attributes": {
+                "definition": "This relationship indicates that an entity has a specific characteristic or quality.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "afd1feac-9819-40e0-ad0f-9ba848586302",
+            "target": "83637461-0984-42c9-b6dc-bcbc9d2f7d48",
+            "type": "type",
+            "name": "Is associated with",
+            "attributes": {
+                "definition": "Represents a broad, unspecified connection or affiliation between different entities.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "55bd1935-0b8b-43db-8cf0-d25b0ea67941",
+            "target": "a5d6ac51-5c47-4598-a442-501e2d59e473",
+            "type": "type",
+            "name": "Possesses Attribute",
+            "attributes": {
+                "definition": "This relationship indicates that an entity has a specific characteristic or quality.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "target": "88fc33d5-6213-42d6-9a22-3ad5d8623e97",
+            "type": "type",
+            "name": "Describes film attribute",
+            "attributes": {
+                "definition": "Defines various characteristics or properties associated with a film.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a6ca98f7-e312-4121-b760-ce99178b4f1e",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "9dee07c8-fc62-438e-b847-cb0b3158cd98",
+            "target": "7f035a1e-d6b4-49bc-880c-45eb5258ef13",
+            "type": "type",
+            "name": "Describes person attribute",
+            "attributes": {
+                "definition": "Relates an entity to its inherent characteristics or properties.",
+                "source_user_add": "true"
+            }
+        }
+    ]
+}

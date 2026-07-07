@@ -1,0 +1,1022 @@
+{
+    "nodes": [
+        {
+            "id": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "type": "type",
+            "name": "Film",
+            "attributes": {
+                "definition": "A motion picture or movie that tells a story through moving images and sound."
+            }
+        },
+        {
+            "id": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "Genre",
+            "attributes": {
+                "definition": "Categorizes creative works by their style, form, or subject matter."
+            }
+        },
+        {
+            "id": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "type": "type",
+            "name": "Person",
+            "attributes": {
+                "definition": "An individual human being, including actors, musicians, directors, writers, politicians, and other notable figures."
+            }
+        },
+        {
+            "id": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Profession",
+            "attributes": {
+                "definition": "A category of work or occupation that requires specific skills, training, or expertise to perform professionally."
+            }
+        },
+        {
+            "id": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "Location",
+            "attributes": {
+                "definition": "A geographical area, place, or region that can be identified by name and has defined boundaries or characteristics."
+            }
+        },
+        {
+            "id": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "Language",
+            "attributes": {
+                "definition": ""
+            }
+        },
+        {
+            "id": "da028610-5d01-4fa7-b165-0bfd0a321a65",
+            "type": "type",
+            "name": "Gender Classifications",
+            "attributes": {
+                "definition": "A system for categorizing individuals based on their biological sex or gender identity characteristics."
+            }
+        },
+        {
+            "id": "2423d156-bcd6-4ddc-a062-b866055d9fae",
+            "type": "type",
+            "name": "Creative Works",
+            "attributes": {
+                "definition": "Original productions of human creativity including literature, films, music, art, and other forms of artistic expression."
+            }
+        },
+        {
+            "id": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "Film Genres",
+            "attributes": {
+                "definition": "Categories or classifications that describe the style, theme, or content characteristics of movies."
+            }
+        },
+        {
+            "id": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Geographic Locations",
+            "attributes": {
+                "definition": "Physical places on Earth including countries, states, counties, cities, time zones, and other territorial divisions."
+            }
+        },
+        {
+            "id": "901b6b79-1e09-4cd1-ba0e-f456999d514a",
+            "type": "type",
+            "name": "Actors",
+            "attributes": {
+                "definition": "Individuals who perform in films, television shows, theater productions, or other entertainment media by portraying characters."
+            }
+        },
+        {
+            "id": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "type": "type",
+            "name": "Films",
+            "attributes": {
+                "definition": "Motion pictures or movies created for entertainment, artistic expression, or commercial purposes in the cinema industry."
+            }
+        },
+        {
+            "id": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "Countries",
+            "attributes": {
+                "definition": "Sovereign political entities or nations that have defined territories, governments, and international recognition."
+            }
+        },
+        {
+            "id": "64570484-8380-4e24-bc40-61d61621e7ef",
+            "type": "type",
+            "name": "Musicians",
+            "attributes": {
+                "definition": "Individuals who create, perform, or compose music professionally or as their primary artistic pursuit."
+            }
+        },
+        {
+            "id": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "type": "type",
+            "name": "Film Directors",
+            "attributes": {
+                "definition": "Individuals who oversee and guide the creative and technical aspects of movie production."
+            }
+        },
+        {
+            "id": "4458b72f-671d-46e3-8976-57fb72093780",
+            "type": "type",
+            "name": "Numbers",
+            "attributes": {
+                "definition": "Numerical values or digits used for counting, measuring, or identifying quantities and amounts."
+            }
+        },
+        {
+            "id": "96f3e13a-f6f8-4ca5-93c8-714c40b024c0",
+            "type": "type",
+            "name": "Philosophers",
+            "attributes": {
+                "definition": "Individuals who engage in the study of fundamental questions about existence, knowledge, values, reason, mind, and language."
+            }
+        },
+        {
+            "id": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "type": "type",
+            "name": "Entertainment Media",
+            "attributes": {
+                "definition": "Creative content produced for public enjoyment including films, television shows, and other audiovisual productions."
+            }
+        },
+        {
+            "id": "49084513-89a5-446c-93ee-868a52059c65",
+            "type": "type",
+            "name": "Television Series",
+            "attributes": {
+                "definition": "A form of entertainment content broadcast on television, typically consisting of multiple episodes with ongoing storylines or themes."
+            }
+        },
+        {
+            "id": "dedc04eb-4c40-43f3-8f55-aee294ccdc57",
+            "type": "type",
+            "name": "Places",
+            "attributes": {
+                "definition": "Geographic locations including countries, regions, cities, counties, and time zones that represent physical or administrative areas on Earth."
+            }
+        },
+        {
+            "id": "192b8f5a-f737-4a5e-b52f-def2b2926164",
+            "type": "type",
+            "name": "People",
+            "attributes": {
+                "definition": ""
+            }
+        },
+        {
+            "id": "5adbb2eb-6075-447e-8c40-745efe4b9b67",
+            "type": "type",
+            "name": "Attributes",
+            "attributes": {
+                "definition": "A characteristic or quality that describes a property or feature of a person, object, or concept."
+            }
+        },
+        {
+            "id": "be76ff1a-66a3-49a5-8181-c9baff505430",
+            "type": "type",
+            "name": "Film and Television",
+            "attributes": {
+                "definition": "Creative works produced for cinema, television, or streaming platforms that tell stories through moving images and sound."
+            }
+        },
+        {
+            "id": "898fec33-205d-4165-8633-da7a2b334d8e",
+            "type": "type",
+            "name": "Languages and Ethnicities",
+            "attributes": {
+                "definition": "Groups of people sharing common cultural, linguistic, or national characteristics, and systems of communication used by communities."
+            }
+        },
+        {
+            "id": "504cb024-079a-4bf7-bd61-e4ef2648e7d9",
+            "type": "type",
+            "name": "Literature",
+            "attributes": {
+                "definition": "A written work of artistic or intellectual value, typically including novels, poems, plays, and other creative texts."
+            }
+        },
+        {
+            "id": "2aa8ccce-5f5e-4aae-b4a7-6d2a04a94962",
+            "type": "type",
+            "name": "Ethnic Groups",
+            "attributes": {
+                "definition": "Groups of people who share common cultural, linguistic, ancestral, or national characteristics and identity."
+            }
+        },
+        {
+            "id": "223ff4ee-b521-4a90-978a-860abc2b2677",
+            "type": "type",
+            "name": "Events and Occasions",
+            "attributes": {
+                "definition": "Specific times, celebrations, or happenings that mark significant moments or recurring cultural observances."
+            }
+        },
+        {
+            "id": "a72fc26e-e265-4060-88ae-40a2954cfadf",
+            "type": "type",
+            "name": "Musical Artists",
+            "attributes": {
+                "definition": "A person or group who creates, performs, or records music."
+            }
+        },
+        {
+            "id": "dcc304e1-2378-4afe-9ff4-16b403d7faf5",
+            "type": "type",
+            "name": "Literary Figures",
+            "attributes": {
+                "definition": "Individuals renowned for their significant contributions to literature, including authors, poets, and playwrights."
+            }
+        },
+        {
+            "id": "7aa69a14-204c-4c75-8c7f-23d7202e09e7",
+            "type": "type",
+            "name": "Film Professionals",
+            "attributes": {
+                "definition": "Professionals who contribute to the creation and production of movies."
+            }
+        },
+        {
+            "id": "b9266fca-8407-4853-8f87-253a73d4a2d7",
+            "type": "type",
+            "name": "Geographical Entities",
+            "attributes": {
+                "definition": "Locations, regions, or areas on the Earth's surface."
+            }
+        },
+        {
+            "id": "34b5e847-bb02-453a-9aa3-956c49dd23e6",
+            "type": "type",
+            "name": "Television Programs",
+            "attributes": {
+                "definition": "Broadcast content designed for viewing on television, including series, movies, and specials."
+            }
+        }
+    ],
+    "edges": [
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "is characterized by",
+            "attributes": {
+                "definition": "Describes the defining attributes, qualities, or features that distinguish or identify an entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "da028610-5d01-4fa7-b165-0bfd0a321a65",
+            "type": "type",
+            "name": "defines",
+            "attributes": {
+                "definition": "Specifies what something means or establishes the nature of something.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2423d156-bcd6-4ddc-a062-b866055d9fae",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2423d156-bcd6-4ddc-a062-b866055d9fae",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "located in",
+            "attributes": {
+                "definition": "A spatial relationship indicating that one entity exists within the geographical boundaries of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "901b6b79-1e09-4cd1-ba0e-f456999d514a",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "is characterized by",
+            "attributes": {
+                "definition": "Describes the defining attributes, qualities, or features that distinguish or identify an entity.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "64570484-8380-4e24-bc40-61d61621e7ef",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "is characterized by",
+            "attributes": {
+                "definition": "Describes the defining attributes, qualities, or features that distinguish or identify an entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "is characterized by",
+            "attributes": {
+                "definition": "Describes the defining attributes, qualities, or features that distinguish or identify an entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "target": "da028610-5d01-4fa7-b165-0bfd0a321a65",
+            "type": "type",
+            "name": "defines",
+            "attributes": {
+                "definition": "Specifies what something means or establishes the nature of something.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "located in",
+            "attributes": {
+                "definition": "A spatial relationship indicating that one entity exists within the geographical boundaries of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "located in",
+            "attributes": {
+                "definition": "A spatial relationship indicating that one entity exists within the geographical boundaries of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "4458b72f-671d-46e3-8976-57fb72093780",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "96f3e13a-f6f8-4ca5-93c8-714c40b024c0",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Describes origin or source",
+            "attributes": {
+                "definition": "A relationship indicating the geographical or institutional source where something was created or produced.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Geographic Contains",
+            "attributes": {
+                "definition": "A spatial relationship indicating that one geographic entity physically encompasses or includes another location within its boundaries.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Describes origin or source",
+            "attributes": {
+                "definition": "A relationship indicating the geographical or institutional source where something was created or produced.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49084513-89a5-446c-93ee-868a52059c65",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "Describes origin or source",
+            "attributes": {
+                "definition": "A relationship indicating the geographical or institutional source where something was created or produced.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "49084513-89a5-446c-93ee-868a52059c65",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Describes origin or source",
+            "attributes": {
+                "definition": "A relationship indicating the geographical or institutional source where something was created or produced.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "dedc04eb-4c40-43f3-8f55-aee294ccdc57",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "192b8f5a-f737-4a5e-b52f-def2b2926164",
+            "target": "5adbb2eb-6075-447e-8c40-745efe4b9b67",
+            "type": "type",
+            "name": "Characterizes attributes",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "192b8f5a-f737-4a5e-b52f-def2b2926164",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Characterizes attributes",
+            "attributes": {
+                "definition": "",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "2423d156-bcd6-4ddc-a062-b866055d9fae",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Characterizes attributes",
+            "attributes": {
+                "definition": "",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "192b8f5a-f737-4a5e-b52f-def2b2926164",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "Describes origin or source",
+            "attributes": {
+                "definition": "A relationship indicating the geographical or institutional source where something was created or produced.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "dedc04eb-4c40-43f3-8f55-aee294ccdc57",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "Categorizes by type",
+            "attributes": {
+                "definition": "A classification relationship that groups entities based on their shared characteristics or properties.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "be76ff1a-66a3-49a5-8181-c9baff505430",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "be76ff1a-66a3-49a5-8181-c9baff505430",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "be76ff1a-66a3-49a5-8181-c9baff505430",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "898fec33-205d-4165-8633-da7a2b334d8e",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "Demographic Characteristics",
+            "attributes": {
+                "definition": "Statistical data and attributes that describe the composition and characteristics of human populations.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "7ae405fc-1270-462a-9c71-191fe0f48438",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "901b6b79-1e09-4cd1-ba0e-f456999d514a",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "64570484-8380-4e24-bc40-61d61621e7ef",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "504cb024-079a-4bf7-bd61-e4ef2648e7d9",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "dedc04eb-4c40-43f3-8f55-aee294ccdc57",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "is expressed in",
+            "attributes": {
+                "definition": "A relationship indicating the language or languages used to communicate, present, or convey content in media or by groups.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "741100fc-856f-441a-8ada-373ee8968333",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "has occupational role",
+            "attributes": {
+                "definition": "indicates the professional position, job title, or work-related function that a person holds or performs.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "3a7dfe49-598a-485d-82bd-47d361dbd883",
+            "target": "a3a88725-5137-425a-a68f-d1a0825d2e74",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "2aa8ccce-5f5e-4aae-b4a7-6d2a04a94962",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "Demographic Characteristics",
+            "attributes": {
+                "definition": "Statistical data and attributes that describe the composition and characteristics of human populations.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "be76ff1a-66a3-49a5-8181-c9baff505430",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "223ff4ee-b521-4a90-978a-860abc2b2677",
+            "target": "d524e308-a0fa-4e4b-8462-1317e50c9e4e",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "f9352a4a-5b3b-4ecd-8803-c7a8b5823bb4",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "belongs to",
+            "attributes": {
+                "definition": "Indicates that an entity is part of or under the jurisdiction of another entity.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "has attribute",
+            "attributes": {
+                "definition": "Describes inherent characteristics or properties that an entity possesses.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Geographic Association",
+            "attributes": {
+                "definition": "A relationship type that connects entities based on their physical location or geographical proximity within a specific area.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "da028610-5d01-4fa7-b165-0bfd0a321a65",
+            "type": "type",
+            "name": "defines",
+            "attributes": {
+                "definition": "Specifies what something means or establishes the nature of something.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "a72fc26e-e265-4060-88ae-40a2954cfadf",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "59222761-ef1d-42bd-897b-6dbb514a9df6",
+            "target": "4fb40a6a-f869-4826-b9d5-f12c0d489939",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "dcc304e1-2378-4afe-9ff4-16b403d7faf5",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "target_user_add": "true"
+            }
+        },
+        {
+            "source": "7aa69a14-204c-4c75-8c7f-23d7202e09e7",
+            "target": "741100fc-856f-441a-8ada-373ee8968333",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "b9266fca-8407-4853-8f87-253a73d4a2d7",
+            "target": "5485054e-8cad-4b94-b748-8708e1174a1a",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "34b5e847-bb02-453a-9aa3-956c49dd23e6",
+            "target": "55c9b251-e031-4333-8c06-d10eb968f651",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "source_user_add": "true"
+            }
+        },
+        {
+            "source": "022c2a28-830f-4e5d-b4a5-671b3844d952",
+            "target": "e9a0cbbc-e8db-486e-a149-3e796c323b10",
+            "type": "type",
+            "name": "Has Property",
+            "attributes": {
+                "definition": "Connects an entity to one of its defining attributes or characteristics.",
+                "source_user_add": "true"
+            }
+        }
+    ]
+}

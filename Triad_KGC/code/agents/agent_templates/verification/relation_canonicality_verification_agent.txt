@@ -1,0 +1,25 @@
+Based on the domain knowledge, choose the best choice to complete the incomplete triples.
+Ensure the correctness and purity of the output content format, without attaching any explanations or labels.
+
+Example:
+input:
+Domain Knowledge:
+The operating system is a software that manages computer hardware and software resources and provides common services for computer programs. It acts as an intermediary between users and the computer hardware. Memory, in computing, refers to the physical devices used to store data or instructions temporarily or permanently.
+triples: (operate system, , memory)
+choices: grow, run, manage
+output: manage
+
+input:
+Domain Knowledge:
+The OpenAI organization is a research institute focused on artificial intelligence (AI) and machine learning. It was founded in December 2015 and has made significant contributions to the field of AI, including the development of advanced language models like GPT-3. The CEO of OpenAI is Sam Altman.
+triples: (Openai, ceo, )
+choices: Elon Musk, Bill Gates, Sam Altman
+output: Sam Altman
+
+Query:
+input:
+Domain Knowledge:
+{{domain_knowledge}}
+triples: {{incomplete_triples}}
+choices: {{choices}}
+output:
